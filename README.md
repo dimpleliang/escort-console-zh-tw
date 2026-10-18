@@ -3,8 +3,14 @@
 [Escort Console](https://www.escortdls.com/) 是 ESCORT iMiniPlus PDF Data Logger 溫度記錄器的 Windows 管理軟體，原廠只提供英、法、德、義、西、波蘭文介面。本專案是[大元冷凍](https://www.start.com.tw/)為疫苗冰箱客戶整理的**繁體中文翻譯**，開放給有需要的人取用。
 
 這裡只放翻譯內容與做法說明，**不含任何原廠程式或修改後的 DLL**。
-要直接使用繁體中文版，請到官網下載一鍵安裝程式：
-<https://www.start.com.tw/data-logger-download/>
+要直接使用繁體中文版，請到官網下載一鍵安裝程式。
+
+## 相關連結
+
+- 公司網站（大元冷凍）：<https://www.start.com.tw/>
+- Escort Console 繁體中文版下載頁：<https://www.start.com.tw/data-logger-download/>
+- 軟體安裝教學：<https://www.start.com.tw/escort-console-software-install/>
+- iMiniPlus PDF Data Logger 設定教學：<https://www.start.com.tw/iminiplus-pdf-data-logger-setup-guide/>
 
 ## 內容
 
@@ -52,5 +58,6 @@ Escort Console 的介面文字全部放在語言資源 DLL `Escort<語言代碼>
 
 ## 授權
 
-翻譯內容與本說明以 [CC BY 4.0](LICENSE) 授權，使用時請註明「大元冷凍 www.start.com.tw」。
+翻譯內容與本說明以 [CC BY 4.0](LICENSE) 授權，使用時請註明「大元冷凍 https://www.start.com.tw/ 」。
+製作：大元冷凍工程有限公司，台北。疫苗冰箱、溫度記錄器與軟體的相關問題可至 <https://www.start.com.tw/data-logger-download/> 查詢。
 Escort Console 及其資源檔的著作權屬 Escort Data Logging Systems，本專案與原廠無關。
