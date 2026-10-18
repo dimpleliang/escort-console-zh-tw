@@ -1,0 +1,2037 @@
+﻿English,繁體中文
+&About ESCORT...,關於 ESCORT(&A)...
+Ports and Products,連接埠與產品
+&Finish,完成(&F)
+Escort Data Loggers Inc,Escort Data Loggers Inc
+Internet:,網際網路：
+Text (Tab delimited),文字（以 Tab 分隔）
+You must logon to the software to be able to add digital signature(s),您必須登入軟體才能新增數位簽章
+Minute,分鐘
+Programmed logger,已程式設定的記錄器
+Days license initialized on ,天數授權啟用日期：
+Runs left:,剩餘執行次數：
+"The username and/or password you have supplied do not match a known user. Note, passwords are case sensitive. Please try again and if problem persists, please contact your network administrator.",您輸入的使用者名稱和／或密碼與任何已知使用者不符。請注意，密碼區分大小寫。請再試一次，如果問題持續發生，請聯絡您的網路管理員。
+"Unzoom the display to previous setting, show additional information\nUnzoom",將顯示縮放還原為先前設定並顯示其他資訊\n還原縮放
+"Prepare a logger or ChartReader ready for use, using the same settings already stored within the device\nRearm",使用裝置內已儲存的相同設定，將記錄器或 ChartReader 準備就緒以供使用\n重新待命
+Start the Wizard which will lead you through actions you can do\nWizard,啟動精靈，引導您完成可執行的操作\n精靈
+Change details about the user that is currently logged on (Requires UserAdmin software)\nModify User,變更目前登入使用者的詳細資料（需要 UserAdmin 軟體）\n修改使用者
+Brown Texture 1,棕色紋理 1
+White Texture 2,白色紋理 2
+You can select the ESCORT products that you want to program and configure by putting a check in the box next to the entry. You may click Next when you are ready to continue.,您可以在項目旁的方塊中打勾，選取要進行程式設定與組態設定的 ESCORT 產品。準備好繼續時，請按下一步。
+The following is a summary of the program options that are about to be uploaded to the logger(s). Please click Next when you are ready to have the new program settings uploaded to the logger(s).,以下是即將上傳至記錄器的程式設定選項摘要。準備好將新的程式設定上傳至記錄器時，請按下一步。
+"Note, the text included in the 'Printable Messages' section will be included on every printout.",請注意，「可列印訊息」區段中的文字將會出現在每一份列印輸出上。
+The loggers you have selected are now having their new program settings uploaded. ,您所選取的記錄器正在上傳其新的程式設定。 
+The ESCORT download reading wizard is now complete. ,ESCORT 讀數下載精靈現已完成。 
+The following options determine what readings are to be considered out of specification and could be considered invalid or questionable.,下列選項決定哪些讀數將被視為超出規格，並可能被視為無效或有疑慮。
+"Choose new start conditions for the selected ESCORT product(s) by selecting the appropriate option, and click Rearm when you are ready to continue. ",選取適當選項，為所選的 ESCORT 產品設定新的啟動條件，準備好繼續時請按重新待命。 
+It is recommended you return this logger to your nearest service centre to be serviced.,建議您將此記錄器送回最近的服務中心進行維修。
+\n	* CAN download the logger from %s via %s and see data by entering password\n	* HAVE to enter password when programming in ESCORT Web Track,\n	* 可以透過 %s 從 %s 下載記錄器，並輸入密碼以檢視資料\n	* 在 ESCORT Web Track 中進行程式設定時必須輸入密碼
+Go,執行
+"%s, when %lu readings have been taken",%s，當已擷取 %lu 筆讀數時
+Failure,失敗
+Password,密碼
+Options,選項
+Download Readings,下載讀數
+Specification,規格
+%.*f to %.*f %s,%.*f 至 %.*f %s
+Pulse Counting Interface (Rate Mode),脈衝計數介面（速率模式）
+upper,上限
+Integrator,累積
+Links,連結
+Step,階梯
+Highest reading,最高讀數
+Define new formula,定義新公式
+Above Specification,高於規格
+Description,描述
+PHI Aerobic,PHI 有氧
+%lu %s greater than %.*f,%lu %s 大於 %.*f
+Estimated Remaining Shelf Life (ERSL),預估剩餘保存期限（ERSL）
+Corrected for lag\n%s,已校正延遲\n%s
+"side by side or the data can be viewed overlaid.\n\nBy supporting different time period synchronization, comparative or continuous analysis can be performed.\n\nFor example, with comparative analysis you may choose to ",並排顯示，或者也可以將資料疊加檢視。\n\n透過支援不同時間區段的同步，可以執行比較式或連續式分析。\n\n例如，使用比較式分析時，您可以選擇 
+"However, the elapsed time of each reading since the logger began recording reading will still be visible. ",不過，自記錄器開始記錄讀數以來，每筆讀數的經過時間仍會顯示。 
+Show connection reminder for scanning loggers,掃描記錄器時顯示連線提醒
+List Report Options,清單報表選項
+Not visible,不顯示
+User defined,使用者自訂
+English (Canadian),英文（加拿大）
+English (Zimbabwe),英文（辛巴威）
+German,德文
+Dutch (Belgian),荷蘭文（比利時）
+Portuguese (Portugal),葡萄牙文（葡萄牙）
+Spanish (Venezuela),西班牙文（委內瑞拉）
+Spanish (Bolivia),西班牙文（玻利維亞）
+Reading below specification,讀數低於規格
+Reading was below dewpoint,讀數低於露點
+Celsius,攝氏
+pH,pH
+% Carbon Dioxide,% 二氧化碳
+%lu day,%lu 天
+&New Custom Value...,新增自訂值(&N)...
+Auto Detect,自動偵測
+Ext. Green,外部綠色
+Pulse Counter,脈衝計數器
+ESCORT Mini 2000,ESCORT Mini 2000
+ESCORT REDi,ESCORT REDi
+The logger with serial number %s does not have any active sensors defined. Please change the settings so that this logger has at least one sensor active.,序號為 %s 的記錄器未定義任何啟用的感測器。請變更設定，使此記錄器至少有一個感測器處於啟用狀態。
+Interval,間隔
+Pr&operties,內容(&O)
+", %.*f Volts (%hu%%)",，%.*f 伏特 (%hu%%)
+Landscape (graph compression supported),橫向（支援圖表壓縮）
+The settings specified would result in no readings being taken. Please modify the appropriate settings so that at least one reading will be recorded.,指定的設定將導致無法擷取任何讀數。請修改相關設定，使至少能記錄一筆讀數。
+The logger(s) you are programming does not support the logging interval between each reading that you have specified. Please change the logging interval to a value within the following ranges:\n\n	From 5 seconds to 3 minutes 15 seconds.\n	From 4 minutes to 3 hours 15 minutes (0 seconds).\n	From 4 hours to 9 days 15 hours (0 seconds and 0 minutes).,您正在程式設定的記錄器不支援您所指定的每筆讀數間記錄間隔。請將記錄間隔變更為下列範圍內的數值：\n\n	5 秒至 3 分鐘 15 秒。\n	4 分鐘至 3 小時 15 分鐘（0 秒）。\n	4 小時至 9 天 15 小時（0 秒且 0 分鐘）。
+It is therefore recommended that you obtain and try an update of this software to overcome this error.,因此建議您取得並嘗試此軟體的更新版本，以解決此錯誤。
+The software detected a problem during the initializing of the communications port that has prevented it from continuing successfully.,軟體在初始化通訊連接埠時偵測到問題，導致無法順利繼續進行。
+"The software was unable to save the log cycle information as requested, as the log cycle data was not available.",由於記錄週期資料無法取得，軟體無法依要求儲存記錄週期資訊。
+"The software has detected a problem with the calibration information of a humidity sensor within the %s that cannot be repaired by this software, which will need to be resolved by having the sensor correctly re-calibrated.",軟體偵測到 %s 內某個濕度感測器的校正資訊發生問題，此軟體無法修復，必須將該感測器正確重新校正才能解決。
+The software has detected a different %s to the original connected to the communications port and was therefore unable to safely proceed.,軟體偵測到通訊連接埠上連接的 %s 與原本的不同，因此無法安全地繼續進行。
+The software has identified that configuration settings for one or more sensors within the %s contains one or more invalid values. Please check that the sensor configuration settings are valid.,軟體發現 %s 內一個或多個感測器的組態設定含有一個或多個無效值。請檢查感測器的組態設定是否有效。
+This version of the software does not support %s with memory segment version %s.,此版本的軟體不支援 %s（記憶體區段版本 %s）。
+"The response received from the %s was of an unexpected size, indicating possible problems with the communications port and/or the power supply in the %s.",從 %s 接收到的回應大小不符預期，顯示通訊連接埠和／或 %s 的電源供應可能有問題。
+"The data must be saved to an offline storage system (for example, a file), before new program and configuration settings are attempted to be uploaded to the %s.",在嘗試將新的程式設定與組態設定上傳至 %s 之前，必須先將資料儲存至離線儲存系統（例如檔案）。
+"The password supplied to access the data within the file %s, was incorrect.",用來存取檔案 %s 內資料的密碼不正確。
+"Time delay between now and when to start logger is too small, please specify a larger time difference.",從現在到記錄器啟動之間的時間延遲太短，請指定較大的時間差。
+You must enter a calibration value before continuing.,繼續之前，您必須輸入校正值。
+The values you have entered are too large for compatibility with software prior to version 1.60. Do you want to continue and use these values?,您輸入的數值過大，與 1.60 版之前的軟體不相容。是否要繼續並使用這些數值？
+Unable to locate the web site %s. Please check your internet connection and try again later.,無法找到網站 %s。請檢查您的網際網路連線，並稍後再試。
+%s days out of %s,%s 天，共 %s 天
+Below Ideal Temperature,低於理想溫度
+"WARNING: Please make sure that the old battery has been replaced with a fresh one, as otherwise the battery status will not be reported correctly.\nAre you sure the battery monitoring circuit should be reset?",警告：請確認舊電池已更換為新電池，否則將無法正確回報電池狀態。\n您確定要重設電池監控電路嗎？
+"\n\nTo change your preferred COM port, please go to the ''Edit'' menu, choose the ''Options'' command and select the ''Communications'' tab.\nIt is faster to use the ''Ports and Products'' window if it is open.",\n\n若要變更您偏好的 COM 連接埠，請前往「編輯」功能表，選擇「選項」命令並選取「通訊」索引標籤。\n若「連接埠與產品」視窗已開啟，使用該視窗會更快。
+	NOTE! Enabling this option provides you the ability to clear your loggers alarm history. Your loggers alarm will only be activated once the designated number of out of specification readings is achieved.,	注意！啟用此選項可讓您清除記錄器的警報記錄。記錄器的警報只有在達到指定數量的超出規格讀數後才會啟動。
+That key combination is reserved and may not be reassigned.,該按鍵組合已保留，無法重新指派。
+Customize,自訂
+Select Directory,選取目錄
+Select &All,全選(&A)
+About ,關於 
+Save new workspace '%s'?\n,是否儲存新工作區「%s」？\n
+(No description available),（無可用說明）
+Open Workspace,開啟工作區
+Name:,名稱：
+ is not able to serialize itself properly using IPersistStorage.\nA corruption of whole document may follow., 無法使用 IPersistStorage 正確序列化自身。\n整份文件可能因此毀損。
+&Docked,停駐(&D)
+Unable to host this control because it failed to paint itself properly.,無法裝載此控制項，因為它無法正確繪製自身。
+AAAAAAB,AAAAAAB
+No,否
+Could not load Image !,無法載入影像！
+-1 - True,-1 - True
+End,End
+For,For
+&Floating,浮動(&F)
+Ma&ximized,最大化(&X)
+ActiveHost\n\nScript\n\n\nScriptHost.Document\nScript Document,ActiveHost\n\nScript\n\n\nScriptHost.Document\nScript Document
+Save component to a different file,將元件儲存至不同的檔案
+Memory error locking graph template,鎖定圖表範本時發生記憶體錯誤
+"Rotate90: Error, unsupported format.",Rotate90：錯誤，不支援的格式。
+Total number of &degree-minutes below specs exceeds,低於規格的度-分鐘總數超過(&D)
+Open an existing workspace,開啟現有工作區
+Open the Workspace Manager,開啟工作區管理員
+Activates user-defined tool 5\nUser-Tool 5,啟用使用者自訂工具 5\n使用者工具 5
+Run Script\nRun Script (F5),執行指令碼\n執行指令碼 (F5)
+Align Bottom\nAlign Bottom,靠下對齊\n靠下對齊
+Toggle Grid [on/off]\nToggle Grid,切換格線 [開／關]\n切換格線
+Arrange minimized icons,排列最小化的圖示
+An error occurred while loading a wiget symbol,載入小工具符號時發生錯誤
+Background,背景
+Grid lines,格線
+HEX,HEX
+Data list,資料清單
+Data of an incompatible type has been sent to the data buffer,已將不相容類型的資料傳送至資料緩衝區
+CScale,CScale
+SRGCompoundComponent,SRGCompoundComponent
+SRGraphTitleResizeable,SRGraphTitleResizeable
+SRGDateScale,SRGDateScale
+SRGDisplayBase,SRGDisplayBase
+SRGFreeStyleGraph,SRGFreeStyleGraph
+SRGStackHBarGraph,SRGStackHBarGraph
+SRGVectorGraph,SRGVectorGraph
+Change the printing options\nPage Setup,變更列印選項\n版面設定
+Copy the selection and put it on the Clipboard\nCopy,複製選取範圍並放入剪貼簿\n複製
+Redo the previously undone action\nRedo,重做先前復原的動作\n重做
+Opens Help\nHelp Topics,開啟說明\n說明主題
+CAP,CAP
+Change the window position,變更視窗位置
+Activate this window,啟動此視窗
+A required resource was unavailable.,所需的資源無法使用。
+Page %u\nPages %u-%u\n,第 %u 頁\n第 %u-%u 頁\n
+Failed to save document.,無法儲存文件。
+Insufficient memory to perform operation.,記憶體不足，無法執行操作。
+Please enter a number between %1 and %2.,請輸入介於 %1 與 %2 之間的數字。
+Please enter a time.,請輸入時間。
+An unexpected error occurred while writing %1.,寫入 %1 時發生未預期的錯誤。
+No error occurred.,未發生錯誤。
+%1 could not be created because the directory is full.,由於目錄已滿，無法建立 %1。
+An attempt was made to read from the writing %1.,嘗試從正在寫入的 %1 讀取。
+&File,檔案(&F)
+E&xit,結束(&X)
+&Show Current Readings...\tF8,顯示目前讀數(&S)...\tF8
+&Support Web Page...,技術支援網頁(&S)...
+Propert&ies...,內容(&I)...
+&Cascade,重疊顯示(&C)
+&New Window\tCtrl+N,開新視窗(&N)\tCtrl+N
+Active Scr&ipt,Active Script(&I)
+&Tool Bar,工具列(&T)
+&Horz. Center,水平置中(&H)
+&Width,寬度(&W)
+Add component,新增元件
+Add Label,新增標籤
+&Ok,確定(&O)
+&Next Tip,下一個提示(&N)
+File &name:,檔案名稱(&N)：
+Serial Number:,序號：
+Password Settings,密碼設定
+Following are the current settings used to synchronise multiple logger trip readings onto a single view. You may modify these settings if you want to adjust any or all entries.,以下是用來將多台記錄器的行程讀數同步至單一檢視的目前設定。若要調整任何或所有項目，您可以修改這些設定。
+Products,產品
+Background:,背景：
+&Update all displays,更新所有顯示(&U)
+Title:,標題：
+"The valid range of values for the x-axis is between %s and %s, inclusive.",X 軸的有效數值範圍為 %s 至 %s（含兩端）。
+Sample,範例
+Hardware Version:,硬體版本：
+&Activate,啟用(&A)
+&Done,完成(&D)
+Assign Shortcut,指派快速鍵
+"Select a category, then click a button to see its description. Drag the button to any toolbar",選取類別，然後按一下按鈕以查看其說明。將按鈕拖曳至任一工具列
+&Initial Directory:,初始目錄(&I)：
+C&ool Look,酷炫外觀(&O)
+Object:,物件：
+automation objects that your application exposes. The glue that ties these dynamic windows together is Microsoft's ActiveX scripting model defined in COM. Currently VBScript and JavaScript engines implement this model.,您的應用程式所公開的自動化物件。將這些動態視窗結合在一起的橋樑是 COM 中所定義的 Microsoft ActiveX 指令碼模型。目前 VBScript 與 JavaScript 引擎皆實作此模型。
+&Code,程式碼(&C)
+Pixels,像素
+Fill Style,填滿樣式
+&Vertical shade,垂直陰影(&V)
+Thin 3&D Border,細 3D 框線(&D)
+Thick &Shadow,粗陰影(&S)
+Bold,粗體
+Chart Explorer,圖表總管
+Graph &Style,圖表樣式(&S)
+Log Scale,對數刻度
+Show Z Grid Lines,顯示 Z 軸格線
+F&rame Width,外框寬度(&R)
+Color 1,色彩 1
+&Name,名稱(&N)
+You have selected a mixture of groups and indices. Would you like to use...,您選取了群組與索引的混合項目。您想要使用...
+Full Width/Half Height,全寬／半高
+cm,公分
+License Registration,授權註冊
+Registration,註冊
+EDLS Tools,EDLS 工具
+First reading,第一筆讀數
+Refrigeration index calculator,冷藏指數計算器
+The starting temperature is hot (as initial cooling for a carcase),起始溫度為高溫（例如屠體的初步冷卻）
+Printer :,印表機：
+Switch &Display,切換顯示(&D)
+ESCORT Console,ESCORT Console
+&Next >,下一步(&N) >
+"P.O. Box 309, Buchanan, VA 24066, United States","P.O. Box 309, Buchanan, VA 24066, United States"
+Browse,瀏覽
+Formatted Text (Space delimited),格式化文字（以空格分隔）
+Your administrator has not provided you with permission to add digital signature(s),您的管理員未授予您新增數位簽章的權限
+Minutes,分鐘
+Failed to program logger,記錄器程式設定失敗
+Runs license initialized on ,執行次數授權啟用日期：
+The number of runs the software was licensed for has elapsed.,本軟體授權的執行次數已用盡。
+"The current password you have supplied is incorrect and the correct current password must be supplied before a new password can be set. Note, passwords are case sensitive. If this problem persists please contact your network administrator.",您輸入的目前密碼不正確，必須先輸入正確的目前密碼才能設定新密碼。請注意，密碼區分大小寫。若問題持續發生，請聯絡您的網路管理員。
+Delete\nDelete,刪除\n刪除
+Download logger trip information from loggers or stored within ChartReaders\nDownload Information,從記錄器下載記錄行程資訊，或下載儲存於 ChartReader 中的資訊\n下載資訊
+Display the software license information\nLicense,顯示軟體授權資訊\n授權
+yy,yy
+Brown Texture 2,棕色紋理 2
+Black Texture 1,黑色紋理 1
+The ESCORT logger(s) currently being programmed support password protection. ,目前進行程式設定的 ESCORT 記錄器支援密碼保護。
+Please supply the appropriate information for the Cox DataSource logger(s) currently is(are) being programmed. ,請為目前進行程式設定的 Cox DataSource 記錄器提供適當的資訊。
+Please select the appropriate options that control the general behavior and functions available for the user when using the ChartReader(s),請選擇適當的選項，以控制使用者在使用 ChartReader 時的一般行為及可用功能
+"If you would like to program and configure additional loggers and/or ChartReaders, you may do so now by selecting the appropriate option and clicking Next, otherwise click Finish.",若您想程式設定及組態設定其他記錄器和／或 ChartReader，現在可選擇適當的選項並按一下「下一步」，否則請按一下「完成」。
+"If you would like to download readings from additional ESCORT products, you may do so now by selecting the appropriate option and clicking Next, otherwise click Finish to view the downloaded readings.",若您想從其他 ESCORT 產品下載讀數，現在可選擇適當的選項並按一下「下一步」，否則請按一下「完成」以檢視已下載的讀數。
+The following options determine when and under what conditions the logger should indicate that it has detected an alarm condition.,下列選項可決定記錄器在何時及何種條件下應指示其已偵測到警報狀況。
+Please wait while the ESCORT products you have selected have their new program settings uploaded. ,正在將新的程式設定上傳至您所選取的 ESCORT 產品，請稍候。
+The battery in the %s is too low to sustain for recording another trip. Please have the battery in the logger replaced with a new one.,%s 的電池電量過低，無法支援再記錄一次行程。請將記錄器的電池更換為新電池。
+\n\nPlease also note that:,\n\n另請注意：
+Date/Time,日期／時間
+according to the condition last used by the loggers.,根據記錄器上次使用的條件。
+Success,成功
+Details,詳細資料
+Graphs,圖表
+Download,下載
+Alarm,警報
+Pulse Counting Interface,脈衝計數介面
+Auto detect on start,啟動時自動偵測
+summary step,摘要步階
+The maximum catastrophe alarm must be in the range %.*f to %.*f %s. Please change it to value within this range to continue.,重大警報上限必須介於 %.*f 至 %.*f %s 的範圍內。請將其變更為此範圍內的數值以繼續。
+Analysis,分析
+Histogram,直方圖
+Lowest reading,最低讀數
+Index,索引
+Below Specification,低於規格
+Trip No.,行程編號
+PHI Anaerobic,PHI 厭氧
+n/a,不適用
+Est. Remaining Shelf Life (%s),預估剩餘保存期限 (%s)
+Total %s\nLog %s,總計 %s\n記錄 %s
+compare readings logged during a previous week with readings with logged during the current week. With continuous analysis you may choose to compare readings from multiple loggers that logged over a similar time period ,將前一週記錄的讀數與本週記錄的讀數進行比較。透過連續分析，您可選擇比較多個記錄器在相近時間期間內記錄的讀數
+"This option is useful for comparing similar data recording during different but similar time periods. For example, it is useful for comparing the current log data with a previous weeks data.",此選項適用於比較在不同但相似的時間期間所記錄的類似資料。例如，適用於比較目前的記錄資料與前幾週的資料。
+Remind users of consequences of upgrading the data format of loggers and ChartReaders,提醒使用者升級記錄器與 ChartReader 資料格式的後果
+"Please select the product families from the list below that you frequently intend to use. \nThe fewer number of product families that are selected, the less time will be taken to perform the communication operations.\n",請從下列清單中選擇您經常使用的產品系列。\n選取的產品系列越少，執行通訊作業所需的時間就越短。\n
+Bottom of graph,圖表底部
+Do not show,不顯示
+English (New Zealand),英文（紐西蘭）
+English (Philippines),英文（菲律賓）
+German (Swiss),德文（瑞士）
+Finnish,芬蘭文
+Spanish (Castilian),西班牙文（卡斯提亞）
+Spanish (Colombia),西班牙文（哥倫比亞）
+Spanish (El Salvador),西班牙文（薩爾瓦多）
+Reading within specification,讀數符合規格
+2D Graphs,2D 圖表
+Fahrenheit,華氏
+mA,mA
+%lu seconds,%lu 秒
+to,至
+&Edit Custom Value...,編輯自訂值(&E)...
+Air Temp,氣溫
+Ext. Yellow,外部黃色
+Temperature,溫度
+ESCORT Mini 2000/Intelligent ChartReader,ESCORT Mini 2000/Intelligent ChartReader
+ESCORT iMiniPlus,ESCORT iMiniPlus
+Unavailable,無法使用
+Result,結果
+The %s is no longer capable of receiving new program instructions. Please return the %s logger to your distributor.,%s 已無法接收新的程式設定指令。請將 %s 記錄器退回給您的經銷商。
+Excellent,極佳
+Portrait (no graph compression),直向（不壓縮圖表）
+The number of readings you have specified to log is larger than the logger(s) support. Please modify the settings so that no more than %lu readings will be recorded.,您指定要記錄的讀數數量超出記錄器所支援的範圍。請修改設定，使記錄的讀數不超過 %lu 筆。
+The logger(s) cannot be programmed with these new settings as the logger's clock will very likely have gone past the designated start time by the time the new settings have been uploaded.,記錄器無法以這些新設定進行程式設定，因為在新設定上傳完成時，記錄器的時鐘很可能已超過指定的開始時間。
+To resolve this problem it is recommended that you obtain and try an updated copy of this software and/or have the humidity sensor correctly re-calibrated. ,為解決此問題，建議您取得並試用更新版本的本軟體，和／或將濕度感測器正確地重新校正。
+The software has detected a corrupted password within the %s and will attempt to restore the password the factory default.,本軟體在 %s 中偵測到損毀的密碼，將嘗試將密碼還原為原廠預設值。
+"The software is unable to read the data within the file %s, as it is not in a format that it can successfully read.",本軟體無法讀取檔案 %s 中的資料，因為其格式無法被成功讀取。
+The initialization memory region within the %s has become corrupted or is unsupported by this version of software. It is therefore,%s 內的初始化記憶體區域已損毀或不受此版本軟體支援。因此
+The software has detected memory corruption(s) within the memory of the %s. It is therefore,本軟體在 %s 的記憶體中偵測到記憶體損毀。因此
+The software is unable to use the communications port (%s) as it appears to be currently in use by another application or process.,本軟體無法使用通訊連接埠 (%s)，因為它目前似乎正被其他應用程式或處理程序使用中。
+This version of the software does not support %s initialized to version %s.,此版本的軟體不支援 %s（初始化版本 %s）。
+"The software has identified the %s as a rental edition, which requires a rental version of software to successfully access it.",本軟體已將 %s 辨識為租賃版，需使用租賃版軟體才能成功存取。
+The module %s is out of date and requires updating.,模組 %s 已過時，需要更新。
+The logger is unable to receive new program and configuration settings. Please contact your distributor for further assistance.,記錄器無法接收新的程式設定與組態設定。請聯絡您的經銷商以取得進一步協助。
+"Time delay between now and when to start logger is too large, please specify a smaller time difference.",目前時間與記錄器開始時間之間的延遲時間過長，請指定較小的時間差。
+You must select a calibration period before continuing.,您必須先選擇校正期間才能繼續。
+The maximum value must be greater than zero.,最大值必須大於零。
+The software is currently unable to connect to the internet and check for updates. Please try again later.,本軟體目前無法連線至網際網路以檢查更新。請稍後再試。
+%3.0hu day(s),%3.0hu 天
+Time spent at or below %5.1f %s,處於 %5.1f %s 或以下的時間
+REDi password has to be exactly 4 digits (numbers 0 to 9).,REDi 密碼必須恰好為 4 位數字（0 到 9）。
+ %s has selected the USB port for communication with products., %s 已選取 USB 連接埠以與產品進行通訊。
+\n	Disabling this option will only stop your logger from beeping for one logging cycle and will not clear your loggers alarm history. The beeper will start beeping on the next logged interval.,\n	停用此選項只會讓記錄器在一個記錄週期內停止嗶聲，並不會清除記錄器的警報歷史記錄。蜂鳴器將在下一個記錄間隔開始嗶聲。
+New (Insert),新增 (Insert)
+Enter,Enter
+Select File,選取檔案
+T,T
+&Windows...,視窗(&W)...
+Workspaces,工作區
+No Preview...,無預覽...
+All Files,所有檔案
+Description:,描述：
+is not handled. Do you want to add a handler ?,未被處理。您要新增處理常式嗎？
+Unable to create one or more controls.,無法建立一或多個控制項。
+Failed to create control.,建立控制項失敗。
+ActiveEngine,ActiveEngine
+Minimize,最小化
+Unable to initialize control's properties.,無法初始化控制項的內容。
+Failed to set property,設定內容失敗
+Dim,Dim
+Do,Do
+&MDI Child,MDI 子視窗(&M)
+&Restored,還原(&R)
+Control with this name already exists on the form,表單上已存在使用此名稱的控制項
+Delete this component,刪除此元件
+SRGraphDynamicData HiLo buffer allocation error,SRGraphDynamicData HiLo 緩衝區配置錯誤
+&Window,視窗(&W)
+Total number of degree-&minutes above specs exceeds,高於規格的度-分鐘總數超過(&M)
+Save the active workspace,儲存使用中的工作區
+Allow Docking,允許停駐
+Activates user-defined tool 6\nUser-Tool 6,啟用使用者自訂工具 6\n使用者工具 6
+Event bar,事件列
+Space Across\nSpace Across,水平均分\n水平均分
+Bring to Front\nBring to Front,移至最上層\n移至最上層
+Template syntax error.\nThere is an error in the legend declaration.,範本語法錯誤。\n圖例宣告中有錯誤。
+A drawing function was performed outside of the draw loop,在繪圖迴圈之外執行了繪圖函式
+Label,標籤
+Tick marks,刻度記號
+SQUARE,SQUARE
+Data item,資料項目
+Template syntax error\nThere is an error in the component declaration.,範本語法錯誤\n元件宣告中有錯誤。
+SRGraphStyle,SRGraphStyle
+SRGDataManager,SRGDataManager
+SRGraphLabel,SRGraphLabel
+SRGIndexScale,SRGIndexScale
+SRGraphDisplay,SRGraphDisplay
+SRGGanttGraph,SRGGanttGraph
+SRGStackVBarGraph,SRGStackVBarGraph
+SRGWebGraph,SRGWebGraph
+Change the printer and printing options\nPrint Setup,變更印表機及列印選項\n列印設定
+Cut the selection and put it on the Clipboard\nCut,剪下選取項目並放入剪貼簿\n剪下
+Open another window for the active document\nNew Window,為使用中的文件開啟另一個視窗\n開新視窗
+List Help topics\nHelp Topics,列出說明主題\n說明主題
+NUM,NUM
+Reduce the window to an icon,將視窗縮小為圖示
+Open,開啟
+Out of memory.,記憶體不足。
+prn,prn
+Save changes to %1?,要將變更儲存至 %1 嗎？
+System registry entries have been removed and the INI file (if any) was deleted.,系統登錄項目已移除，且 INI 檔案（若有）已刪除。
+Please enter no more than %1 characters.,請輸入不超過 %1 個字元。
+Please enter a date.,請輸入日期。
+%1: %2\nContinue running script?,%1: %2\n要繼續執行指令碼嗎？
+An unknown error occurred while accessing %1.,存取 %1 時發生不明錯誤。
+Seek failed on %1,在 %1 上搜尋失敗
+%1 has a bad format.,%1 的格式錯誤。
+&Open...\tCtrl+O,開啟舊檔(&O)...\tCtrl+O
+&Edit,編輯(&E)
+&Help,說明(&H)
+&Frequently Asked Questions Web Page...,常見問題網頁(&F)...
+Di&gitally Sign...,數位簽章(&G)...
+Tile &Horizontally,水平並排(&H)
+&About ActiveHost...,關於 ActiveHost(&A)...
+&New\tCtrl+N,開新檔案(&N)\tCtrl+N
+Tool &Box,工具箱(&B)
+Space &Evenly,平均分配間距(&E)
+&Height,高度(&H)
+Delete,刪除
+Add Annotation,新增註解
+Cancel,取消
+C&lose,關閉(&L)
+&Folders:,資料夾(&F)：
+Product Code:,產品代碼：
+Protect program settings,保護程式設定
+Reading Number:,讀數編號：
+Up,向上
+AaBbCcXxYyZz,AaBbCcXxYyZz
+Readings Shown,顯示的讀數
+Comment:,備註：
+Show readings that are:,顯示符合下列條件的讀數：
+Languages,語言
+Supplier:,供應商：
+&Close Window,關閉視窗(&C)
+Preview:,預覽：
+Press new shortcut key:,請按下新的快速鍵：
+New Toolbar,新增工具列
+&Add,新增(&A)
+&Large Buttons,大型按鈕(&L)
+Events:,事件：
+"In your script, you can invoke methods, change properties and handle events of embedded OLE controls and objects exposed by the app - all in scripting language of your choice.",在您的指令碼中，您可以呼叫方法、變更內容，並處理由本應用程式公開的內嵌 OLE 控制項與物件的事件，全部皆可使用您所選擇的指令碼語言完成。
+Choose Component,選擇元件
+Millimeters,公釐
+Button4,Button4
+&Horizontal shade,水平陰影(&H)
+Thick Ra&ised Border,粗凸起邊框(&I)
+Font Style,字型樣式
+Italic,斜體
+Tree1,Tree1
+A&xis Style,軸樣式(&X)
+Always Show Zero,永遠顯示零
+Show Tick Marks,顯示刻度記號
+Fram&e Color,邊框色彩(&E)
+Choose Color &1,選擇色彩 1(&1)
+Page Setup,頁面設定
+&Indices only,僅索引(&I)
+Half Width/Full Height,半寬／全高
+&Print,列印(&P)
+Current License:,目前授權：
+"To use the free %s software, please click 'Continue'.",若要使用免費的 %s 軟體，請按一下「繼續」。
+Stress Test,壓力測試
+Last reading,最後讀數
+Select the product type,選取產品類型
+&Yes (LagGens = 5),是(&Y)（LagGens = 5）
+Port :,連接埠：
+The required file %s is either missing or corrupt. Please contact your local distributor for a new copy of this file.,所需檔案 %s 遺失或已損毀。請聯絡您當地的經銷商，索取此檔案的新副本。
+\nEscort\nCompact\nCompact Files (*.lcf;.lrf)\n.lcf;.lrf\nLoggerCompactFile\nLogger Compact File,\nEscort\nCompact\nCompact Files (*.lcf;.lrf)\n.lcf;.lrf\nLoggerCompactFile\nLogger Compact File
+&Download >,下載(&D) >
+support@escortdataloggers.com,support@escortdataloggers.com
+All Files (*.*),所有檔案 (*.*)
+Logger Recorded Files,記錄器錄製檔案
+You must save this file to disk to be able to add digital signature(s),您必須先將此檔案儲存至磁碟，才能加入數位簽章
+Second,秒
+Downloaded logger,已下載的記錄器
+Days issued:,核發天數：
+Program has a valid license.,程式擁有有效的授權。
+"The new password you have supplied does not match the confirmation password. The software cannot change your password until both the new password and confirmation password match. Note, passwords are case sensitive.",您輸入的新密碼與確認密碼不一致。在新密碼與確認密碼一致之前，軟體無法變更您的密碼。請注意，密碼區分大小寫。
+Inverse the selection of the information displayed\nInvert Selection,反向選取目前顯示的資訊\n反向選取
+Show the current sensor readings of the attached logger(s)\nShow current readings,顯示已連接記錄器目前的感測器讀數\n顯示目前讀數
+Check the Internet for any updates and/or any new versions of this software\nCheck for update,檢查網際網路上是否有本軟體的任何更新及／或新版本\n檢查更新
+Standard,標準
+Grey Texture 1,灰色紋理 1
+Please supply an appropriate description for the ESCORT iLog logger(s) currently being programmed. ,請為目前正在進行程式設定的 ESCORT iLog 記錄器提供適當的描述。 
+Please select the appropriate password options you want to enable or disable and the password that protects with these options. You may click Next when you are ready to continue.,請選取您要啟用或停用的適當密碼選項，以及用於保護這些選項的密碼。準備好繼續時，可點選「下一步」。
+You may click Next when you are ready to continue.,準備好繼續時，可點選「下一步」。
+Please select the appropriate options for determining how printouts should appear when printed by the ChartReader(s).,請選取適當的選項，以決定 ChartReader 列印時的輸出外觀。
+The ESCORT ChartReaders you have selected are now having their new configuration settings uploaded. ,正在將新的組態設定上傳至您所選取的 ESCORT ChartReader。
+The current sensor readings for the checked ESCORT products are displayed below. ,下方顯示已勾選 ESCORT 產品目前的感測器讀數。
+The following options determine how readings from the logger(s) should be shown on the logger's display.,下列選項決定記錄器的讀數應如何顯示於記錄器的顯示幕上。
+Welcome to the wizard that will guide you through the process of including data from multiple trips into a single window for viewing and analysis. Please click Next when you are ready to proceed.,歡迎使用本精靈，它將引導您將多趟行程的資料納入單一視窗，以便檢視與分析。準備好繼續時，請點選「下一步」。
+Warning. The %s with serial number %s cannot be programmed.\n%s,警告。序號為 %s 的 %s 無法進行程式設定。\n%s
+\n	* If a logger is password protected - %s will require a password for EVERY logger (can be more then a hundred).\n	  This will make download extremely inconvenient because you may have to enter numerous passwords,\n	* 若記錄器受密碼保護，%s 將要求輸入「每一台」記錄器的密碼（可能超過一百台）。\n	  這會使下載極為不便，因為您可能必須輸入大量密碼
+This logger has not been programmed to be activated to take readings.,此記錄器尚未經程式設定為啟動後擷取讀數。
+in %s,於 %s
+&Show reason for failure,顯示失敗原因(&S)
+Sensors,感測器
+Working Range,工作範圍
+Finish,完成
+Display,顯示
+pH adapter (%.*f to %.*f %s),pH 轉接器 (%.*f 至 %.*f %s)
+Internal,內部
+The %s specification must be in the range %.*f to %.*f %s. Please change it to value within this range to continue.,%s 規格必須介於 %.*f 至 %.*f %s 的範圍內。請將其變更為此範圍內的數值，以便繼續。
+The minimum catastrophe alarm must be in the range %.*f to %.*f %s. Please change it to value within this range to continue.,重大警報下限必須介於 %.*f 至 %.*f %s 的範圍內。請將其變更為此範圍內的數值以繼續。
+Readings,讀數
+Overview,總覽
+Process Hygiene Index (PHI),製程衛生指數 (PHI)
+"Elapsed\nTime","經過\n時間"
+Serial Number,序號
+Battery,電池
+Legend,圖例
+Sender time zone,傳送者時區
+Max. Shelf Life as per USDA,依 USDA 規定之最長保存期限
+The starting temperature %s,起始溫度 %s
+and where each logger logged in its own unique location.\n\nPress Next when ready to proceed.,且每台記錄器各在其專屬位置進行記錄。\n\n準備好繼續時，請按「下一步」。
+"This option will allow you to manually determine how the data should be compared. This option is useful for when the above two options do not meet your requirements, ",此選項可讓您手動決定資料的比較方式。當上述兩個選項無法滿足您的需求時，此選項相當實用，
+Users must supply password for each logger and ChartReader as required,使用者必須依需要為每台記錄器與 ChartReader 提供密碼
+These selections can be modified at a later date. ,這些選取項目日後可再修改。
+Top of graph,圖表上方
+Show as lines,以線條顯示
+English (Ireland),英文（愛爾蘭）
+French,法文
+German (Austrian),德文（奧地利）
+Italian,義大利文
+Spanish (Mexican),西班牙文（墨西哥）
+Spanish (Peru),西班牙文（祕魯）
+Spanish (Honduras),西班牙文（宏都拉斯）
+Reading above calibration,讀數高於校正範圍
+Border,邊框
+Kelvin,凱氏
+Volts,伏特
+%lu minutes,%lu 分鐘
+&Close,關閉(&C)
+&Show Reference Information...,顯示參考資訊(&S)...
+Humidity 2,濕度 2
+Ext. White,外部白色
+Thermocouple,熱電偶
+ESCORT Precision,ESCORT Precision
+Escort iMiniPlus PDF,Escort iMiniPlus PDF
+Communications Port (COM%hu),通訊連接埠 (COM%hu)
+Status,狀態
+a magnetic,磁感應
+Good,良好
+Thumbnail (40mm maximum length),縮圖（最大長度 40mm）
+The duration of the log you have specified is longer than the logger(s) support. Please modify the settings so that the logging will finish no later than %s.,您指定的記錄持續時間超過記錄器所能支援的範圍。請修改設定，讓記錄不晚於 %s 結束。
+The logger(s) you are programming cannot be time started on a partial minute. Please change the start time conditions so that the loggers will not start based on seconds.,您正在進行程式設定的記錄器無法以不足一分鐘的時間啟動。請變更啟動時間條件，使記錄器不依秒數啟動。
+"recommended that you obtain an update of this software to try and overcome this error, otherwise the %s will need to be repaired before it can be used further.",建議您取得本軟體的更新，以嘗試解決此錯誤，否則 %s 必須先經過維修，才能繼續使用。
+"An unexpected response was received from the %s, indicating possible problems with the communications port and/or the power supply in the %s. Please check that the same %s is connected to the interface securely.",從 %s 收到非預期的回應，顯示通訊連接埠及／或 %s 的電源供應可能有問題。請檢查該 %s 是否已穩固連接至介面。
+"The software is unable to read the data within the file %s, as it does not support version of this file and therefore it is recommended you obtain an update of this software to overcome this error.",軟體無法讀取檔案 %s 內的資料，因為它不支援此檔案的版本，因此建議您取得本軟體的更新以解決此錯誤。
+The data within the initialization memory region within the %s is invalid or unsupported. It is therefore,%s 內初始化記憶體區域中的資料無效或不受支援。因此
+The software did not receive a response from any product that it supports.,軟體未收到任何所支援產品的回應。
+The software was unable to safely continue accessing the %s as it appears one or more humidity sensors have not been calibrated.,軟體無法安全地繼續存取 %s，因為似乎有一個或多個濕度感測器尚未校正。
+The software experienced a failure communicating with the attached interface.,軟體與所連接的介面通訊時發生失敗。
+"The software has identified the %s as a standard edition, which requires a standard version of the software to successfully access it.",軟體已將 %s 辨識為標準版，必須使用標準版軟體才能成功存取。
+This version of the software does not support %s with hardware version %s.,此版本的軟體不支援 %s（硬體版本 %s）。
+Logger trips that were not recorded in the same time frame cannot be linked using the real time option.,未在相同時間範圍內記錄的記錄器行程，無法使用即時選項進行連結。
+The number of consecutive readings before the alarm will be raised must be in the range from 1 to %hu.,觸發警報前的連續讀數次數必須介於 1 至 %hu 的範圍內。
+You must enter the units to be used before continuing.,您必須先輸入要使用的單位，才能繼續。
+"A different logger has been detected. Please replace the original logger, with serial number %s, on the interface attached to your communications port.",偵測到不同的記錄器。請將序號為 %s 的原始記錄器放回連接於您通訊連接埠的介面上。
+Unable to determine if a new version of this software is available. Please contact your local distributor for further assistance.,無法判斷是否有本軟體的新版本可用。請聯絡您當地的經銷商以取得進一步協助。
+%3.0hu - %3.0hu days,%3.0hu - %3.0hu 天
+Connection to %s User Database failed.\n,連線至 %s 使用者資料庫失敗。\n
+"Unable to upload program settings to this logger, logger is too different from the original logger.Do you want to program another logger?",無法將程式設定上傳至此記錄器，此記錄器與原始記錄器差異過大。您要對另一台記錄器進行程式設定嗎？
+REMINDER: Your previous logger had a new battery inserted and the battery usage in logger was reset to full capacity.Do you wish to program this next logger with new battery usage setting? If Yes please put a new battery in the logger.,提醒：您前一台記錄器已裝入新電池，且記錄器中的電池使用量已重設為滿電容量。您要以新電池使用量設定對下一台記錄器進行程式設定嗎？若選「是」，請在記錄器中裝入新電池。
+Bookmarks,書籤
+Delete (Delete),刪除 (Delete)
+Error ,錯誤 
+.%if,.%if
+C,C
+SECSplashWnd,SECSplashWnd
+<None>,<無>
+Select Program,選取程式
+Save Workspace,儲存工作區
+No Description Available,無可用說明
+ActiveX Script,ActiveX 指令碼
+\n\nIt is possible you have not called AfxEnableControlContainer in your app's InitInstance.,\n\n您可能尚未在應用程式的 InitInstance 中呼叫 AfxEnableControlContainer。
+"\n\nMake sure your application has initialized the OLE libraries.","\n\n請確認您的應用程式已初始化 OLE 程式庫。"
+Color,色彩
+Maximize,最大化
+ - True, - True
+Toolbox,工具箱
+ReDim,ReDim
+If,If
+&Top,頂端(&T)
+MD&I Child as,MDI 子視窗為(&I)
+Properties are not available for this control,此控制項無可用的內容
+Edit this component's properties.,編輯此元件的內容。
+SRGraphDynamicData allocation error,SRGraphDynamicData 配置錯誤
+XML Files (.xml),XML 檔案 (.xml)
+You have indicated that you want to raise an alarm.\n Therefore you have to specify the alarm source.,您已指示要觸發警報。\n 因此您必須指定警報來源。
+Save your desktop to the named workspace,將您的桌面儲存至指定名稱的工作區
+Hide,隱藏
+Activates user-defined tool 7\nUser-Tool 7,啟動使用者自訂工具 7\n使用者工具 7
+Delete Item(s)\nDelete Item(s) (Del),刪除項目\n刪除項目 (Del)
+Space Down\nSpace Down,垂直均分\n垂直均分
+Send to Back\nSend to Back,移至最下層\n移至最下層
+An SRGraph exception occured. No infomation is available.,發生 SRGraph 例外狀況。無可用的資訊。
+The requested polygon resource was not available,所要求的多邊形資源無法使用
+Label block,標籤區塊
+Decimal scale,小數刻度
+CIRCLE,CIRCLE
+Value,值
+Template syntax error.\nThere is an error in the fill style declaration.,範本語法錯誤。\n填滿樣式宣告中有錯誤。
+SRGraphAnnotation,SRGraphAnnotation
+SRGDynamicDataManager,SRGDynamicDataManager
+SRGraphLabelBlock,SRGraphLabelBlock
+SRGGroupScale,SRGGroupScale
+SRGraph,SRGraph
+SRGHBarGraph,SRGHBarGraph
+SRGStepGraph,SRGStepGraph
+"For Help, press F1",如需說明，請按 F1
+Print the active document\nPrint,列印使用中的文件\n列印
+Find the specified text\nFind,尋找指定的文字\n尋找
+Arrange icons at the bottom of the window\nArrange Icons,在視窗底部排列圖示\n排列圖示
+Display instructions about how to use help\nHelp,顯示如何使用說明的指示\n說明
+SCRL,SCRL
+Enlarge the window to full size,將視窗放大至全螢幕
+Save As,另存新檔
+An unknown error has occurred.,發生未知的錯誤。
+Output.prn,Output.prn
+Failed to create empty document.,無法建立空白文件。
+Not all of the system registry entries (or INI file) were removed.,並非所有系統登錄項目（或 INI 檔案）都已移除。
+Please select a button.,請選取一個按鈕。
+Unexpected file format.,非預期的檔案格式。
+Dispatch exception: %1,派送例外狀況：%1
+%1 was not found.,找不到 %1。
+A hardware I/O error was reported while accessing %1.,存取 %1 時回報硬體 I/O 錯誤。
+%1 contained an unexpected object.,%1 包含非預期的物件。
+P&rint Setup...,列印設定(&R)...
+&Copy\tCtrl+C,複製(&C)\tCtrl+C
+&Help Topics,說明主題(&H)
+&About ESCORT Console...,關於 ESCORT Console(&A)...
+Report...,報表...
+&Tile Vertically,垂直並排(&T)
+&Item,項目(&I)
+&Delete\tDel,刪除(&D)\tDel
+&Status Bar,狀態列(&S)
+&Across,橫向(&A)
+&Both,兩者(&B)
+Properties,內容
+About ESCORT Console,關於 ESCORT Console
+Language:,語言：
+Logon,登入
+List files of &type:,檔案類型(&T)：
+Battery Status:,電池狀態：
+Protect retrieval of readings,保護讀數的擷取
+&OK,確定(&O)
+Down,向下
+Sample:,範例：
+Show readings between:,顯示介於下列範圍之間的讀數：
+Use &defaults,使用預設值(&D)
+&Above specification,高於規格(&A)
+Language to &display,顯示語言(&D)
+Started:,已開始：
+&Save,儲存(&S)
+Shortcut Keys,快速鍵
+Hotkey1,Hotkey1
+&Toolbar name:,工具列名稱(&T)：
+Move &Up,上移(&U)
+&New...,新增(&N)...
+Customize ToolBox,自訂工具箱
+"Scripted windows can be SDI, MDI, or out of frame MDI (like this demo). All you need to do is to derive your view and document classes from our script enabled classes.",指令碼化的視窗可以是 SDI、MDI 或框架外 MDI（如本示範）。您只需從我們啟用指令碼的類別衍生出您的檢視與文件類別即可。
+Type,類型
+Inches,英吋
+Color &1,色彩 1(&1)
+&Angled shade,傾斜陰影(&A)
+Thick S&unken Border,粗下凹邊框(&U)
+Type face,字體
+Underline,底線
+Editing Graph,編輯圖表
+La&bel Style,標籤樣式(&B)
+Show X Labels,顯示 X 軸標籤
+Legend &Type,圖例類型(&T)
+Choose &Color,選擇色彩(&C)
+Color 2,色彩 2
+Alignment,對齊
+&Groups only,僅群組(&G)
+Custom Size,自訂大小
+&Next,下一步(&N)
+Restriction:,限制：
+&Don't show this message again,不再顯示此訊息(&D)
+&Use Stress Test File Names,使用壓力測試檔案名稱(&U)
+&Start,開始(&S)
+"&Carcase (PH = 6.5, Lactate = 51.7, Water Activity = 0.993)",屠體(&C)（pH = 6.5、乳酸鹽 = 51.7、水活性 = 0.993）
+&No (LagGens = 0),否(&N) (LagGens = 0)
+&Print...,列印(&P)...
+Invalid library %s. Try reinstalling the %s software or contact your software vendor for further help.,無效的程式庫 %s。請嘗試重新安裝 %s 軟體，或聯絡您的軟體供應商以取得進一步協助。
+Specification and Alarm,規格與警報
+&Program >,程式設定(&P) >
+http://www.escortdataloggers.com,https://www.start.com.tw/iminiplus-pdf-data-logger-setup-guide/
+Programs,程式
+File Properties,檔案內容
+You cannot add a digital signature as your administrator has not provided you with access to the user database.,您無法新增數位簽章，因為您的管理員未授予您存取使用者資料庫的權限。
+Seconds,秒
+Failed to download logger,下載記錄器失敗
+Days used:,已使用天數：
+Program not registered.,軟體尚未註冊。
+The software was unable to commit your new password to disk and has therefore not been changed. Please contact your network administrator if you require further assistance to overcome this problem.,軟體無法將您的新密碼寫入磁碟，因此密碼並未變更。若您需要進一步協助以解決此問題，請聯絡您的網路管理員。
+Changes the options for the active report\nCustomize Report,變更使用中報表的選項\n自訂報表
+Show the current sensor readings of the attached logger(s) and display trend information\nShow current reading trends,顯示所連接記錄器的目前感測器讀數並呈現趨勢資訊\n顯示目前讀數趨勢
+View the Internet home page for the product range supported by this software\nHome page,檢視本軟體所支援產品系列的網際網路首頁\n首頁
+Swimming Pool,游泳池
+Grey Texture 2,灰色紋理 2
+Appropriate descriptions may include details about where the logger will be located or the shipment identification codes if it is monitoring a shipment in transit. You may click Next when you are ready to continue.,適當的描述可包含記錄器放置位置的詳細資訊，或在監控運送中貨物時的貨運識別碼。當您準備好後，可按一下「下一步」繼續。
+Please supply an appropriate description for the ESCORT Junior logger(s) currently being programmed. ,請為目前正在進行程式設定的 ESCORT Junior 記錄器提供適當的描述。
+Please supply the appropriate information for the ESCORT Mini logger(s) currently being programmed. Descriptions are useful for indicating where the logger(s) will be located or the transit identification codes. ,請為目前正在進行程式設定的 ESCORT Mini 記錄器提供適當的資訊。描述有助於指明記錄器的放置位置或運送識別碼。
+Please select the appropriate options for determining how graphs should appear when printed by the ChartReader(s).,請選擇適當的選項，以決定圖表由 ChartReader 列印時的呈現方式。
+Welcome to the ESCORT download readings wizard.\nThis wizard will guide you through the process of downloading the readings from ESCORT products for viewing and analysis. Please click Next when you are ready to proceed.,歡迎使用 ESCORT 讀數下載精靈。\n本精靈將引導您完成從 ESCORT 產品下載讀數的程序，供您檢視與分析。當您準備好繼續時，請按一下「下一步」。
+Welcome to the Scan wizard.\nThis wizard will guide you throught the process of monitoring the current sensor readings of ESCORT loggers. Please click Next when you are ready to proceed.,歡迎使用掃描精靈。\n本精靈將引導您完成監控 ESCORT 記錄器目前感測器讀數的程序。當您準備好繼續時，請按一下「下一步」。
+"The following options allow you to increase the number of readings that the logger(s) can store, by decreasing range, or resolution.",下列選項可讓您透過縮小量測範圍或降低解析度，來增加記錄器可儲存的讀數數量。
+"The following options determine how different time periods for each trip of logged readings should be synchronized, thereby determining if a comparative or continuous analysis is to be performed.",下列選項決定每趟記錄讀數的不同時間區段應如何同步，藉此決定要執行比較分析或連續分析。
+"You can select the ESCORT products that you want to program with the saved setting by putting a check in the box next to the entry. To program a different product with the saved settings, click 'Search', to escape click 'Cancel'.",您可勾選項目旁的核取方塊，以選擇要使用已儲存設定進行程式設定的 ESCORT 產品。若要使用已儲存設定為不同產品進行程式設定，請按一下「搜尋」；若要離開，請按一下「取消」。
+"\n	* If a logger’s password information is lost, the logger will not be accessible until the password is reset by your distributor\n	* The person downloading password protected logger into %s MUST know the password",\n	* 若記錄器的密碼資訊遺失，在經銷商重設密碼之前將無法存取該記錄器\n	* 將受密碼保護的記錄器下載至 %s 的人員「必須」知道密碼
+"Logger was started %s, is recording readings every %s, and will finish logging %s.",記錄器於 %s 啟動，每 %s 記錄一次讀數，並將於 %s 結束記錄。
+after %s start has been detected,於偵測到 %s 啟動之後
+Program and Configure Results,程式設定與組態設定結果
+Startup,啟動
+Resolution,解析度
+Rearming,重新待命中
+&Audible alarm and alarm link activation,啟用聲音警報與警報連結(&A)
+PT100 adapter (%.*f to %.*f %s),PT100 轉接器 (%.*f 至 %.*f %s)
+External,外部
+The %s specification must be greater than the %s specification. Please correct your specification values to continue.,%s 規格必須大於 %s 規格。請修正您的規格數值以繼續。
+Multiple Trip Synchronization,多重行程同步
+List of readings,讀數清單
+Statistics,統計
+Mean Kinetic Temperature (MKT),平均動力溫度 (MKT)
+Date,日期
+H/w version,硬體版本
+Original time zone,原始時區
+Product Code,產品代碼
+Internal Reference,內部參考
+ Daylight time, 日光節約時間
+"PH = %s, LAC = %s, Aw = %s",pH = %s、乳酸鹽 = %s、Aw = %s
+The software will display the data relative to the actual date/time each reading was recorded. This option is useful for viewing trends in data as they occurred over time and ,軟體將依各讀數實際記錄的日期/時間來顯示資料。此選項適用於檢視資料隨時間發生的趨勢，並
+"or you need to compensate for a variance in the date/time of a logger. For example, the date/time in logger A was 5 seconds ahead of the date/time in logger B, ",或當您需要補償記錄器之間日期/時間的差異時使用。例如，記錄器 A 的日期/時間比記錄器 B 快 5 秒，
+Calculate and display interpolated readings,計算並顯示內插讀數
+Please refer to the Help for further information.,如需進一步資訊，請參閱「說明」。
+Left of graph,圖表左側
+Show as filled in area,以填滿區域顯示
+English (South Africa),英文（南非）
+French (Belgian),法文（比利時）
+German (Luxembourg),德文（盧森堡）
+Italian (Swiss),義大利文（瑞士）
+Spanish (Spain),西班牙文（西班牙）
+Spanish (Argentina),西班牙文（阿根廷）
+Spanish (Nicaragua),西班牙文（尼加拉瓜）
+Reading below calibration,讀數低於校正範圍
+Comment,備註
+Humidity,濕度
+Browse for Directory,瀏覽目錄
+%lu hours,%lu 小時
+&Include...,包含(&I)...
+Enable at Startup,啟動時啟用
+Pulse 1,脈衝 1
+Ext. Orange,外部橘色
+ESCORT logger,ESCORT 記錄器
+ESCORT ThermoCheck,ESCORT ThermoCheck
+Sensor port,感測器連接埠
+Universal Serial Bus (USB),通用序列匯流排 (USB)
+Maximum Readings,最大讀數筆數
+an optical,光學
+Fair,尚可
+Half length,半長
+The date/time you have specified to finish logging at is further than the logger(s) support. Please modify the settings so that the logging will finish no later than %s.,您指定的記錄結束日期/時間超出記錄器所支援的範圍。請修改設定，使記錄結束時間不晚於 %s。
+Multi-Link: (%s),多重連結：(%s)
+your local distributor,您當地的經銷商
+An error occurred while closing the communications port to the %s.,關閉與 %s 的通訊連接埠時發生錯誤。
+"The software is unable to set a password within the file %s to restrict further access, as the file format does not support this feature.",軟體無法在檔案 %s 中設定密碼以限制後續存取，因為此檔案格式不支援此功能。
+The software has detected errors within the memory of this %s and will try to repair the errors. If the software is unable to correct the problem it is,軟體已偵測到此 %s 記憶體內的錯誤，並將嘗試修復這些錯誤。若軟體無法修正此問題，則
+The software was unable to successfully communicate with the %s.,軟體無法成功與 %s 通訊。
+The software was unable to safely continue accessing the %s as it does not support the number of humidity series that have been calibrated.,軟體無法安全地繼續存取 %s，因為它不支援已校正的濕度序列數量。
+The software was unable to locate a product that it supports.,軟體找不到其所支援的產品。
+The software is unable to upload new program and configuration settings to the %s while the internal temperature of the %s is above 40°C (104°F).,當 %s 的內部溫度高於 40°C (104°F) 時，軟體無法將新的程式設定與組態設定上傳至 %s。
+The communication port(s) on this system do not support the communications speed required to successfully communicate with the %s.,本系統的通訊連接埠不支援與 %s 成功通訊所需的通訊速度。
+Alarm tasks failed,警報工作失敗
+The total number of (non) consecutive out of specification readings before an alarm is activated must be in the range from 1 to %lu.,觸發警報前的（非）連續超出規格讀數總數，必須介於 1 至 %lu 之間。
+The number of pulses used for calibration must be more than zero.,用於校正的脈衝數量必須大於零。
+Maximum must be within the sensor range. Please enter a value that is within the range %s.,最大值必須在感測器範圍內。請輸入位於範圍 %s 內的數值。
+You already are using the latest version of the software.,您已在使用最新版本的軟體。
+Above Ideal Temperature,高於理想溫度
+You do not have access to the user profiles.,您沒有存取使用者設定檔的權限。
+The program settings were not successfully uploaded to the previous logger. Do you want to upload these program settings to another logger?  Note the description field(s) of the other logger will not be changed.,程式設定未成功上傳至先前的記錄器。您要將這些程式設定上傳至另一台記錄器嗎？請注意，另一台記錄器的描述欄位將不會變更。
+	Once your Wireless Mini’s beeper is enabled and an alarm is triggered it will continue to beep until cleared by a REDi Wireless Receiver or button press.,	一旦啟用您 Wireless Mini 的蜂鳴器且觸發警報後，它將持續發出嗶聲，直到由 REDi 無線接收器或按下按鈕清除為止。
+Elapsed Time,經過時間
+Move Up (Alt+Up Arrow),上移 (Alt+向上鍵)
+Menu bar,功能表列
+&Undo	Ctrl+Z,復原(&U)	Ctrl+Z
+CE,CE
+SECSplashWndParent,SECSplashWndParent
+You must select an item for this operation,您必須選取一個項目以執行此操作
+Programs|*.exe;*.pif;*.com;*.bat|All files (*.*)|*.*||,程式|*.exe;*.pif;*.com;*.bat|所有檔案 (*.*)|*.*||
+Invalid workspace. Operation has been cancelled.,無效的工作區。操作已取消。
+Characters Directory Selection,字元目錄選擇
+*.bmp,*.bmp
+&Edit	Ctrl+E,編輯(&E)	Ctrl+E
+via AfxOleInit() or equivalent.,透過 AfxOleInit() 或等效函式。
+Width,寬度
+DefaultPos,DefaultPos
+ - False, - False
+&Refresh,重新整理(&R)
+Function,Function
+Explicit,Explicit
+&Left,靠左(&L)
+ Properties..., 內容...
+Edit the component properties,編輯元件內容
+Add's a component to the list,將元件新增至清單
+SRGraphDynamicData reallocation error,SRGraphDynamicData 重新配置錯誤
+Degree-Minutes,度-分鐘
+You have choosen to protect retrieval of readings by Escort Console.\nWould you like to disable viewing readings in logger's PDF file?,您已選擇保護讀數，使其僅能透過 Escort Console 擷取。\n您要停用在記錄器的 PDF 檔案中檢視讀數的功能嗎？
+Close the active workspace,關閉使用中的工作區
+Float In Main Window,在主視窗中浮動
+Activates user-defined tool 8\nUser-Tool 8,啟動使用者自訂工具 8\n使用者工具 8
+Layout bar,版面配置列
+Center Horizontal\nCenter Horizontal,水平置中\n水平置中
+Controls In the Form,表單中的控制項
+An attempt was made to use a dynamic graph without initialising the data buffer.,嘗試在未初始化資料緩衝區的情況下使用動態圖表。
+A graph type was requested which is not compatible with the type of data or the number of data items available.,所要求的圖表類型與資料類型或可用資料項目數量不相容。
+Text panel,文字面板
+Log scale,對數刻度
+DIAMOND,DIAMOND
+Objective Chart Wizard,Objective Chart 精靈
+Template syntax error.\nThere is an error in the font declaration.,範本語法錯誤。\n字型宣告中有錯誤。
+SRGraphData,SRGraphData
+SRGAxisManager,SRGAxisManager
+SRGraphLegend,SRGraphLegend
+SRGScaleBar,SRGScaleBar
+SRDynamicGraph,SRDynamicGraph
+SRGIsoAreaGraph,SRGIsoAreaGraph
+SRGStockGraph,SRGStockGraph
+Select an object on which to get Help,選取要取得說明的物件
+Display full pages\nPrint Preview,顯示整頁\n預覽列印
+Insert Clipboard contents\nPaste,插入剪貼簿內容\n貼上
+Arrange windows so they overlap\nCascade Windows,重疊排列視窗\n重疊顯示視窗
+"Display help for clicked on buttons, menus and windows\nContext Sensitive Help",顯示所按一下的按鈕、功能表與視窗的說明\n內容相關說明
+OVR,OVR
+Switch to the next document window,切換至下一個文件視窗
+Close print preview mode\nCancel Preview,關閉預覽列印模式\n取消預覽
+An invalid argument was encountered.,遇到無效的引數。
+Printer Files (*.prn)|*.prn|All Files (*.*)|*.*||,印表機檔案 (*.prn)|*.prn|所有檔案 (*.*)|*.*||
+The file is too large to open.,檔案太大無法開啟。
+"This program requires the file %s, which was not found on this system.",本程式需要檔案 %s，但在此系統上找不到該檔案。
+Please enter an integer between 0 and 255.,請輸入 0 到 255 之間的整數。
+%1\nCannot find this file.\nPlease verify that the correct path and file name are given.,%1\n找不到此檔案。\n請確認所提供的路徑與檔案名稱是否正確。
+Unable to read write-only property.,無法讀取唯寫屬性。
+%1 contains an invalid path.,%1 包含無效的路徑。
+A sharing violation occurred while accessing %1.,存取 %1 時發生共用違規。
+%1 contains an incorrect schema.,%1 包含不正確的結構描述。
+&User,使用者(&U)
+&Options...,選項(&O)...
+&Tip of the Day...,每日提示(&T)...
+&Save\tCtrl+S,儲存(&S)\tCtrl+S
+&New Window...,開新視窗(&N)...
+&Arrange Icons,排列圖示(&A)
+Cu&t,剪下(&T)
+Cu&t\tCtrl+X,剪下(&T)\tCtrl+X
+&Layout Bar,版面配置列(&L)
+&Down,向下(&D)
+Bring to Front\tCtrl+F,移至最上層\tCtrl+F
+Bring to top,移至最上層
+Version Information:,版本資訊：
+Elapsed Time since time of reading,自讀數時間起的經過時間
+Username:,使用者名稱：
+Dri&ves:,磁碟機(&V)：
+Number of Data Blocks:,資料區塊數量：
+Confirmation:,確認：
+File,檔案
+Communications,通訊
+Set as &default,設為預設值(&D)
+&First reading:,第一筆讀數(&F)：
+Position of &Legend,圖例位置(&L)
+&Within specification,在規格範圍內(&W)
+Language for &printing:,列印語言(&P)：
+Finished:,已完成：
+&Cancel,取消(&C)
+Select a &macro:,選取巨集(&M)：
+Current Assignment,目前指派
+Customize User Tools Menu,自訂使用者工具功能表
+Move &Down,下移(&D)
+TODO: Place controls to manipulate properties of Factory Control on this dialog.,TODO：在此對話方塊上放置用於操作 Factory Control 屬性的控制項。
+&New Scripted Form,新增指令碼表單(&N)
+ActiveX Script Error,ActiveX 指令碼錯誤
+Position,位置
+Percent,百分比
+Button5,Button5
+&Resource image fill,資源影像填滿(&R)
+Thic&k 3D Border,粗 3D 框線(&K)
+&Font...,字型(&F)...
+Strike out,刪除線
+&Draw in background mode,以背景模式繪製(&D)
+Scope,範圍
+Show Y Labels,顯示 Y 軸標籤
+Key &Style,圖鍵樣式(&S)
+&Depth,深度(&D)
+Button2,Button2
+&Center,置中(&C)
+&Both Groups and Indices as selected.,依所選同時套用群組與索引(&B)。
+Horizontal,水平
+&Previous,上一個(&P)
+Steps to register your %s software to %s:\n1.\tContact your local distributor with the Site Code shown below.\n2.\tEnter the Site Key that is provided by your distributor.\n3.\tClick the OK button to activate your %s license.,將您的 %s 軟體註冊為 %s 的步驟：\n1.\t以下方顯示的站台代碼聯絡您當地的經銷商。\n2.\t輸入經銷商提供的站台金鑰。\n3.\t按一下「確定」按鈕以啟用您的 %s 授權。
+&Register,註冊(&R)
+Select Case Type,選取案例類型
+&End,結束(&E)
+"&Boxed Trim (PH = 6.5, Lactate = 51.7, Water Activity = 0.993)",盒裝修整肉(&B)（pH = 6.5、乳酸鹽 = 51.7、水活性 = 0.993）
+New,新增
+&Next Page,下一頁(&N)
+Invalid library %s. %s requires version %s of this library.\nPlease contact your software vendor for an updated version of this file.,無效的程式庫 %s。%s 需要此程式庫的 %s 版本。\n請聯絡您的軟體供應商以取得此檔案的更新版本。
+Advanced Alarm,進階警報
+&Display >,顯示(&D) >
+"%s, Version %s",%s，版本 %s
+Sounds,音效
+Digital Signatures,數位簽章
+Day,日
+Did you know...,您知道嗎...
+%s is unable to verify the status of your software license. Recommend you try reinstalling the software to correct this problem. Please contact your local distributor for further assistance. ,%s 無法驗證您的軟體授權狀態。建議您嘗試重新安裝軟體以解決此問題。如需進一步協助，請聯絡您當地的經銷商。
+Days left:,剩餘天數：
+Unlimited license initialized on ,無限制授權啟用日期：
+"The password you have supplied is incorrect and the correct current password must be supplied before a new digital signature can be added. Note, passwords are case sensitive. If this problem persists please contact your network administrator.",您輸入的密碼不正確，必須先輸入正確的目前密碼才能新增數位簽章。請注意，密碼區分大小寫。若此問題持續發生，請聯絡您的網路管理員。
+Changes the options for the active graph\nCustomize Graph,變更使用中圖表的選項\n自訂圖表
+Close the active window\nClose,關閉使用中的視窗\n關閉
+Display the Internet page that provides support for this software and range of products supported by this software\nOnline support,顯示提供本軟體支援及本軟體所支援產品範圍的網頁\n線上支援
+Prairie Wind,草原之風
+Grey Texture 3,灰色紋理 3
+Please supply an appropriate description for the ESCORT iMiniPlus logger(s) currently being programmed. ,請為目前正在進行程式設定的 ESCORT iMiniPlus 記錄器輸入適當的描述。
+You may now enable or disable the sensors that you want to the logger(s) to record with during their next trip. ,您現在可以啟用或停用記錄器在下次行程中要用來記錄的感測器。
+Specification values and alarm settings are useful for determining what and when readings are to be considered invalid or questionable. You may click Next when you are ready to continue.,規格值與警報設定有助於判斷哪些讀數以及在何時應視為無效或可疑。準備好繼續時，請按一下「下一步」。
+The software is now ready to upload the new configuration settings to the following ChartReader(s). ,軟體現在已準備好將新的組態設定上傳至下列 ChartReader。
+You can select the ESCORT products that you want to download by putting a check in the box next to the entry. A cross in that box indicates that there are currently no readings in that product to download. You may click Next when you are ready to continue.,您可以勾選項目旁的方框來選取要下載的 ESCORT 產品。方框中的叉號表示該產品目前沒有可下載的讀數。準備好繼續時，請按一下「下一步」。
+You can select the ESCORT products that you want to monitor by putting a check in the box next to the entry. A cross in that box indicates that this feature is not available for that product. You may click Next when you are ready to continue.,您可以勾選項目旁的方框來選取要監視的 ESCORT 產品。方框中的叉號表示該產品不支援此功能。準備好繼續時，請按一下「下一步」。
+Increment: is the size of the groups of data readings accrued outside the range limits specified by the software not by the logger.,增量：指由軟體（而非記錄器）所指定範圍界限外累計的資料讀數群組大小。
+The following options allow you to determine how each of time periods which include the logged data from the trip should be synchronized with each other.,下列選項可讓您決定行程中各個包含記錄資料的時段應如何彼此同步。
+\n\nPlease replace the logger’s battery and select the [New battery is fitted] option later in the programming process.,\n\n請更換記錄器的電池，並在稍後的程式設定過程中選取 [已裝入新電池] 選項。
+\n\nDO YOU STILL WANT TO PROCEED?,\n\n您仍要繼續嗎？
+"Logger was started %s, recorded readings every %s, and finished logging %s.",記錄器於 %s 啟動，每 %s 記錄一次讀數，並於 %s 結束記錄。
+after delay,延遲後
+Download Readings Results,下載讀數結果
+Summary,摘要
+The confirmation password does not match the password. Please try setting the password again.,確認密碼與密碼不符。請重新設定密碼。
+Configure Sensors,組態設定感測器
+Last calibration was %s,上次校正為 %s
+Thermocouple adapter (%.*f to %.*f %s),熱電偶轉接器（%.*f 至 %.*f %s）
+maximum,最大值
+"The %s must be greater than, or equal to %.*f %s. Please increase the value specified to a valid value to continue.",%s 必須大於或等於 %.*f %s。請將指定的值提高至有效值以繼續。
+Synchronize,同步
+Readings and summary,讀數與摘要
+Out Of Specification,超出規格
+F0 (Lethal Rate),F0（致死率）
+Time,時間
+Programmed by,程式設定者
+Current time zone,目前時區
+Sensor Name,感測器名稱
+MKT,MKT
+ Standard time, 標準時間
+Growing Degree Day,生長度日
+for comparing log trip data gathered from multiple locations/sites that occurred of the similar periods of time. ,用於比較在相近時段、從多個地點／場所所收集的記錄行程資料。
+or logger A was programmed with daylight in effect and logger B was programmed with daylight saving not in effect.,或記錄器 A 在程式設定時採用日光節約時間，而記錄器 B 在程式設定時未採用日光節約時間。
+Automatically expand list of sensor(s) when grouping them,群組感測器時自動展開感測器清單
+"Please select the communication port and the product families, which you intend to use, from the lists below.",請從下列清單中選取您要使用的通訊連接埠與產品系列。
+Right of graph,圖表右側
+English,英文
+English (Jamaica),英文（牙買加）
+French (Canadian),法文（加拿大）
+German (Liechtenstein),德文（列支敦斯登）
+Japanese,日文
+Spanish (Guatemala),西班牙文（瓜地馬拉）
+Spanish (Ecuador),西班牙文（厄瓜多）
+Spanish (Puerto Rico),西班牙文（波多黎各）
+Default text color,預設文字色彩
+X Grid ,X 格線 
+°C,°C
+"The folder ""%s"" does not exist. Would you like the software to try to create the folder for you?",資料夾「%s」不存在。您希望軟體嘗試為您建立該資料夾嗎？
+%lu days,%lu 天
+&Exclude,排除(&E)
+E&dit Shelf Life selection...,編輯保存期限選取(&D)...
+Int. Red,內部紅色
+Ext. Brown,外部棕色
+ESCORT ChartReader,ESCORT ChartReader
+ESCORT iLog/Qualaire,ESCORT iLog/Qualaire
+Sensor range,感測器範圍
+Infrared Port (IR),紅外線連接埠（IR）
+Trips Remaining,剩餘行程數
+a switch,開關
+"Poor, needs recharging",不佳，需要充電
+Custom maximum length,自訂最大長度
+"The interval between each reading must be in the range of %s to %s, inclusive. Please change the logging interval to a value within this range to continue.",每次讀數之間的間隔必須在 %s 至 %s（含）的範圍內。請將記錄間隔變更為此範圍內的值以繼續。
+"Do you want to save the changes to the file ""%s"", which contains the data about the trip with a description of ""%s""?",您要儲存對檔案「%s」所做的變更嗎？該檔案包含描述為「%s」的行程資料。
+Please contact %s for further assistance with the cause of this error if you require it.,如有需要，請聯絡 %s 以取得有關此錯誤原因的進一步協助。
+The file %s appears to be corrupted and this software is therefore unable to access the data within it.,檔案 %s 似乎已損毀，因此本軟體無法存取其中的資料。
+"The response received from the %s was invalid, indicating possible problems with the communications port and/or the power supply in the %s. Please check that the same %s is connected to the interface securely.",從 %s 收到的回應無效，表示通訊連接埠及／或 %s 的電源供應可能有問題。請檢查同一個 %s 是否已穩固連接至介面。
+The software has detected a problem with a linkage parameter in its code that has prevented it from continuing successfully.,軟體偵測到其程式碼中的連結參數發生問題，導致無法順利繼續執行。
+The software detected an internal authority error that has prevented the software accessing the information with the %s.,軟體偵測到內部授權錯誤，導致軟體無法存取 %s 的資訊。
+The software was unable to safely continue accessing the %s as it does not support the number of humidity points that have been calibrated.,軟體無法安全地繼續存取 %s，因為它不支援已校正的濕度點數量。
+The software attempted to access an unsupported task.,軟體嘗試存取不支援的工作。
+"The software has identified a Data Block within the %s that contains corrupted data and cannot be used, which can not be resolved.",軟體在 %s 中識別到一個資料區塊包含損毀且無法使用的資料，且無法修復。
+An internal error occurred as the software attempted to connect a template directly to a hardware device.,軟體嘗試將範本直接連接至硬體裝置時發生內部錯誤。
+Failed to execute the application (%s) and play the sound file (%s) to indicate an alarm condition with a logger has been detected.,無法執行應用程式（%s）並播放音效檔（%s）以指示偵測到記錄器的警報狀況。
+"Alarm conditions are currently enabled, therefore the total number of non-consecutive, or the number of consecutive out of specification readings before an alarm is activated must be greater than zero.",目前已啟用警報狀況，因此觸發警報前的非連續超出規格讀數總數，或連續超出規格讀數數量，必須大於零。
+The number of pulses to use for calibration must not exceed %lu for the selected sensor(s).,用於校正的脈衝數量，對於所選感測器不得超過 %lu。
+Minimum must be within the sensor range. Please enter a value that is within the range %s.,最小值必須在感測器範圍內。請輸入位於範圍 %s 內的值。
+There is a newer version of this software available for download. Would you like to go to the web download page now?,有此軟體的較新版本可供下載。您要立即前往網頁下載頁面嗎？
+Ideal Temperature as per USDA,依 USDA 規定之理想溫度
+You do not have access to the event log files.,您沒有存取事件記錄檔的權限。
+%s cannot detect any free serial ports for communication with products.,%s 無法偵測到任何可用於與產品通訊的閒置序列埠。
+The use of your logger’s beeper will significantly reduce your logger’s battery life.  Actual battery life with your logger’s beeper enabled depends on ambient temperature and we advise that you regularly check your logger’s battery status.,使用記錄器的蜂鳴器會大幅縮短記錄器的電池壽命。啟用蜂鳴器後的實際電池壽命取決於環境溫度，建議您定期檢查記錄器的電池狀態。
+You must select a shortcut before clicking Remove.,您必須先選取快速鍵，才能按一下「移除」。
+Move Down (Alt+Down Arrow),下移（Alt+向下鍵）
+ [Design], [設計]
+Cu&t	Ctrl+X,剪下(&T)	Ctrl+X
+Hide docked window,隱藏停駐視窗
+&Workspaces...,工作區(&W)...
+ToolBar%d,ToolBar%d
+Select Initial Directory,選取初始目錄
+Arial,Arial
+Show Next Tip,顯示下一個提示
+*.ico,*.ico
+&Run	F5,執行(&R)	F5
+&Properties,內容(&P)
+Height,高度
+WindowPlacement,WindowPlacement
+OLE_COLOR,OLE_COLOR
+&Customize,自訂(&C)
+Exit,Exit
+true,true
+&Bottom,底端(&B)
+Splitter,分隔器
+Add an annotation to this label\nAdd Text,為此標籤新增註解\n新增文字
+Graph Component properties,圖表元件內容
+ERROR.. Cannot select overlaid displays,錯誤..無法選取重疊的顯示
+Standard Alarm,標準警報
+Show all windows in a dialog,在對話方塊中顯示所有視窗
+Saves the currently open windows to the selected workspace,將目前開啟的視窗儲存至所選工作區
+Activates user-defined tool 1\nUser-Tool 1,啟動使用者自訂工具 1\n使用者工具 1
+Activates user-defined tool 9\nUser-Tool 9,啟動使用者自訂工具 9\n使用者工具 9
+Edit OLE Objects\nEdit OLE Objects (Ctrl+E),編輯 OLE 物件\n編輯 OLE 物件（Ctrl+E）
+Center Vertical\nCenter Vertical,垂直置中\n垂直置中
+Events,事件
+A data type not compatible with the current dynamic graph data buffer usage was used.,使用了與目前動態圖表資料緩衝區用途不相容的資料類型。
+The numeric scale supplied is not suitable for logarithmic display,所提供的數值刻度不適合對數顯示
+Data Watcher,資料監看器
+Index scale,索引刻度
+CROSS,CROSS
+Stingray Graph Class.,Stingray Graph Class.
+Template syntax error.\nThere is an error in the data component declaration.,範本語法錯誤。\n資料元件宣告中有錯誤。
+SRGraphDataList,SRGraphDataList
+SRGGridLines,SRGGridLines
+SRGTextPanel,SRGTextPanel
+SRGIndexBar,SRGIndexBar
+SRGLineGraph,SRGLineGraph
+SRGIsoBarGraph,SRGIsoBarGraph
+SRGStrataGraph,SRGStrataGraph
+Open an existing document\nOpen,開啟現有的文件\n開啟舊檔
+Send the active document through electronic mail\nSend Mail,透過電子郵件傳送使用中的文件\n傳送郵件
+Repeat the last action\nRepeat,重複上一個動作\n重複
+Arrange windows as non-overlapping tiles\nTile Windows,將視窗排列為不重疊的並排\n並排視窗
+Display help for current task or command\nHelp,顯示目前工作或命令的說明\n說明
+REC,REC
+Switch to the previous document window,切換至上一個文件視窗
+an unnamed file,未命名的檔案
+on %1,於 %1
+Print to File,列印至檔案
+Could not start print job.,無法開始列印工作。
+This program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s.,此程式連結到的匯出項目 %s（位於檔案 %s）不存在。此電腦上的 %s 版本可能不相容。
+Please enter a positive integer.,請輸入正整數。
+Destination disk drive is full.,目的磁碟機已滿。
+Unable to write read-only property.,無法寫入唯讀內容。
+%1 could not be opened because there are too many open files.,因為開啟的檔案過多，無法開啟 %1。
+A locking violation occurred while accessing %1.,存取 %1 時發生鎖定違規。
+pixels,像素
+&Log On...\tF9,登入(&L)...\tF9
+&Action,動作(&A)
+&License...,授權(&L)...
+Save &As...,另存新檔(&A)...
+&Split,分割(&S)
+&Graph...,圖表(&G)...
+&Copy,複製(&C)
+&Paste\tCtrl+V,貼上(&P)\tCtrl+V
+&Event Bar,事件列(&E)
+&Center in View,在檢視中置中(&C)
+Send to Back\tCtrl+B,移至最下層\tCtrl+B
+Send to back,移至最下層
+Contact Information:,聯絡資訊：
+Date and Time of each reading,每筆讀數的日期與時間
+Change Logon Password,變更登入密碼
+&Read only,唯讀(&R)
+Frequency:,頻率：
+Restrict Access,限制存取
+&Recently used file list:,最近使用的檔案清單(&R)：
+&Enable Auto-search,啟用自動搜尋(&E)
+Advanced,進階
+&Last reading:,最後讀數(&L)：
+Zoom,縮放
+&Below specification,低於規格(&B)
+The changes that have been made will not take effect until %s has been restarted.,所做的變更必須在重新啟動 %s 後才會生效。
+Interval:,間隔：
+Open Windows ,開啟的視窗 
+&Create Shortcut,建立快速鍵(&C)
+XXXX,XXXX
+Menu &Contents,功能表內容(&C)
+Toolbars,工具列
+Insert Control,插入控制項
+&Load Scripted Form,載入指令碼表單(&L)
+&View Source,檢視原始碼(&V)
+Left,左
+View angles,檢視角度
+Color &2,色彩 2(&2)
+Resource ID:,資源 ID：
+Simple &Line Border,簡單線條邊框(&L)
+Size,大小
+Justification,對齊方式
+&Feedback logging,回饋記錄(&F)
+&First Group,第一個群組(&F)
+Show Z Labels,顯示 Z 標籤
+Spare,備用
+Use &Max Dimensions,使用最大尺寸(&M)
+Choose Color &2,選擇色彩 2(&2)
+&Middle,中央(&M)
+Page Setup for Printing Chart,列印圖表的頁面設定
+Vertical,垂直
+Add Digital Signature,新增數位簽章
+Site Code:,站台代碼：
+&Continue,繼續(&C)
+Select product,選取產品
+Product characteristics,產品特性
+"&Primal where the slowest cooling point is lean (PH = 5.4, Lactate = 86.5, Water Activity = 0.993)",最慢冷卻點為瘦肉的原始部位(&P)（pH = 5.4、乳酸鹽 = 86.5、水活性 = 0.993）
+&New ,開新檔案(&N) 
+Pre&v Page,上一頁(&V)
+"Invalid library %s. %s requires version %s, or later, of this library.\nPlease contact your software vendor for an updated version of this file.",程式庫 %s 無效。%s 需要此程式庫的 %s 版或更新版本。\n請聯絡您的軟體供應商以取得此檔案的更新版本。
+Full Sensor Range,完整感測器範圍
+&Rearm >,重新待命(&R) >
+Phone:,電話：
+Logger Compact Files,記錄器壓縮檔
+User,使用者
+Days,天
+Digital Signatures: %s,數位簽章：%s
+The software will continue as if unregistered while this problem remains. Error information: %s.,在此問題存在期間，軟體將以未註冊狀態繼續執行。錯誤資訊：%s。
+The number of days the software was licensed for has elapsed.,本軟體授權的使用天數已用盡。
+"Are you sure you want to permanently add this digital signature for the user ""%s"" with the comment ""%s"" to the file ""%s""?",您確定要將使用者「%s」（備註「%s」）的這個數位簽章永久加入檔案「%s」嗎？
+The software does not allow the same password to be used again. The software cannot change your password until the new password and old password are different.,本軟體不允許重複使用相同的密碼。新密碼與舊密碼不同之前，軟體無法變更您的密碼。
+customizes the toolbar\nToolbar customisation,自訂工具列\n自訂工具列
+Close all the open windows\nClose All,關閉所有開啟的視窗\n全部關閉
+Display the Internet page that provides answers to 'frequently asked questions' for this software and range of products supported by this software\nOnline FAQ,顯示提供本軟體及其支援產品「常見問題」解答的網頁\n線上常見問題
+Blue Texture 1,藍色紋理 1
+Grey Texture 4,灰色紋理 4
+Please supply an appropriate description for the ESCORT iMiniPlus PDF logger(s) currently being programmed. ,請為目前正在程式設定的 ESCORT iMiniPlus PDF 記錄器提供適當的描述。
+If you want to change any attribute of the sensor(s) below please click Configure. You may click Next when you are finished configuring the sensors and are ready to continue.,若您要變更下方感測器的任何屬性，請按「組態設定」。完成感測器組態設定並準備繼續時，可按「下一步」。
+Please supply appropriate descriptions for the ESCORT and/or ESCORT Precision logger(s) currently being programmed. ,請為目前正在程式設定的 ESCORT 及／或 ESCORT Precision 記錄器提供適當的描述。
+Please click Next when you are ready to have the new configuration settings uploaded to the ChartReader(s).,準備好將新的組態設定上傳至 ChartReader 時，請按「下一步」。
+"The ESCORT products you have selected are now having their readings downloaded. When all the readings have finished downloading from the ESCORT products that you want to view, you may click Next when you are ready to continue.",正在下載您所選 ESCORT 產品的讀數。當所有您要檢視的 ESCORT 產品讀數下載完成後，準備好即可按「下一步」繼續。
+The following options determine the characteristics of the sensor.,下列選項決定感測器的特性。
+The following options determine what information and how readings from the logger(s) should be shown on the logger's display.,下列選項決定記錄器顯示幕上應顯示哪些資訊，以及如何顯示記錄器的讀數。
+Enter the maximum and minimum values the sensor could encounter in the target environment. The logger will not be able to record values that fall outside the range you enter.,請輸入感測器在目標環境中可能遇到的最大值與最小值。記錄器將無法記錄落在您所輸入範圍之外的數值。
+%s will now attempt to search ALL available COM Ports for the full range of %s products.\nThis search may take several minutes to complete.\n\nDo you wish to continue?,%s 現在將嘗試搜尋所有可用的 COM 連接埠，以尋找完整的 %s 產品系列。\n此搜尋可能需要數分鐘才能完成。\n\n您要繼續嗎？
+The software was unable to locate any products that it supports on the enabled communication ports. ,軟體無法在已啟用的通訊連接埠上找到任何它所支援的產品。
+"Logger will start %s, recording a reading every %s, and will finish logging %s.",記錄器將於 %s 開始，每 %s 記錄一筆讀數，並於 %s 結束記錄。
+Individual fields,個別欄位
+Program and Configure,程式設定與組態設定
+Trips,行程
+The new password failed to be stored in the logger. Please try setting the password again. If the problem persists please contact your distributor.,新密碼無法儲存至記錄器。請再次嘗試設定密碼。若問題持續，請聯絡您的經銷商。
+Information,資訊
+Reading Interval,讀數間隔
+Milli-Amp (mA) loop on a standard adapter (%.*f to %.*f %s),標準轉接器上的毫安培（mA）迴路（%.*f 至 %.*f %s）
+minimum,最小值
+Unable to determine what the %s specification value is. Please check the value provided to ensure it has been entered correctly.,無法判定 %s 規格值。請檢查所提供的數值，確認輸入是否正確。
+Custom,自訂
+2D Graph,2D 圖表
+Marked Readings,標記讀數
+Dewpoint information,露點資訊
+Highest,最高
+Consigned to,收件者
+Start,開始
+Sensor Range,感測器範圍
+None,無
+(UTC%s),(UTC%s)
+Rearm,重新待命
+"For example, this will allow for data recorded from site A during the previous week to be compared with data recorded from site B that was also taken during the previous week.",例如，這可讓上週於 A 地點記錄的資料，與同樣於上週在 B 地點記錄的資料進行比較。
+Show connection reminder for programming loggers and ChartReaders,程式設定記錄器與 ChartReader 時顯示連接提醒
+Show introduction when synchronising data from multiple logger trips,同步多個記錄器行程的資料時顯示簡介
+Use both sides of graph,使用圖表的兩側
+Floating window,浮動視窗
+English (US),英文（美國）
+English (Caribbean),英文（加勒比海）
+French (Swiss),法文（瑞士）
+Czech,捷克文
+Korean,韓文
+Spanish (Costa Rica),西班牙文（哥斯大黎加）
+Spanish (Chile),西班牙文（智利）
+Chinese (Simplified),中文（簡體）
+Reading was interpolated,讀數為內插值
+Y Grid,Y 軸格線
+°F,°F
+"The folder ""%s"" does not exist. Please ensure the folder exists or alter the folder to one that exists.",資料夾「%s」不存在。請確認該資料夾存在，或將其變更為已存在的資料夾。
+%lu second,%lu 秒
+Default &View,預設檢視(&V)
+E&dit GDD selection...,編輯 GDD 選擇(&D)...
+Int. Green,內部綠色
+Ext. Black,外部黑色
+Cox DataSource,Cox DataSource
+Cox DataSource LCD,Cox DataSource LCD
+Sensor type,感測器類型
+Serial Num,序號
+Name,名稱
+", or",，或
+Multi-Trip,多重行程
+Custom ratio,自訂比例
+"The logger(s) you are programming does not support the logging interval between each reading that you have specified. Please change the logging interval to a value between 1 and 99 seconds, minutes, hours or days, inclusive.",您正在程式設定的記錄器不支援您所指定之每筆讀數之間的記錄間隔。請將記錄間隔變更為 1 至 99（含）之間的秒、分、時或天數值。
+"The compression value must be in the range %hu to %hu, inclusive. Please change it to a value within this range to continue.",壓縮值必須在 %hu 至 %hu（含）的範圍內。請將其變更為此範圍內的數值以繼續。
+An error with the code %#lx has occurred.,發生代碼為 %#lx 的錯誤。
+An attempt was made to access a log cycle which does not exist within the file %s and the software is therefore unable to access the relevant data.,嘗試存取檔案 %s 中不存在的記錄週期，因此軟體無法存取相關資料。
+"The software has detected a problem with some of the date/time values that have been supplied to the %s, which are either invalid or the time between two, or more, of the date/time values are more than the %s supports.",軟體偵測到提供給 %s 的部分日期／時間值有問題，這些值若非無效，便是兩個或多個日期／時間值之間的時間超過 %s 所支援的範圍。
+The software is unable to safely access the %s as it has one or more sensor configurations that are not supported by this software or are configured incorrectly. It is therefore,軟體無法安全存取 %s，因其有一個或多個感測器組態不受本軟體支援或設定不正確。因此
+The software detected a condition instructing it to not continue with its current task.,軟體偵測到一項指示其不要繼續目前工作的條件。
+This version of the software does not support %s with firmware version %s.,此版本的軟體不支援 %s（韌體版本 %s）。
+This version of the software does not support %s.,此版本的軟體不支援 %s。
+An internal error occurred as the software attempted to access a Data Block that does not exist within the %s.,軟體嘗試存取 %s 中不存在的資料區塊時發生內部錯誤。
+An internal error occurred as the software attempted to update the information within an off-line source.,軟體嘗試更新離線來源中的資訊時發生內部錯誤。
+Failed to play sound file (%s) to indicate an alarm condition with a logger has been detected.,無法播放音效檔（%s）以指示偵測到記錄器的警報狀況。
+"The total number of non-consecutive out of specification readings that would activate an alarm must be disabled, greater than, or equal to, the number of consecutive out of specification readings that would activate an alarm.",會觸發警報的非連續超出規格讀數總數，必須停用，或必須大於或等於會觸發警報的連續超出規格讀數數量。
+This sensor cannot support values that have more than %lu significant digits. Please reduce the number of significant digits in the values you are using.,此感測器無法支援超過 %lu 位有效數字的數值。請減少您所使用數值的有效數字位數。
+Maximum must be greater than minimum.,最大值必須大於最小值。
+Estimated Shelf Life calculation not available for Multi - Link yet.,Multi - Link 尚無法計算預估保存期限。
+Above Alarm Upper Spec.,高於警報上限規格
+The %s User Database profiles  file is corrupted.,%s 使用者資料庫設定檔已毀損。
+" To configure, program or download products, please close this application, make sure that there is at least one COM port available and not used by another device, and open %s again.", 若要組態設定、程式設定或下載產品，請關閉本應用程式，確認至少有一個未被其他裝置佔用的可用 COM 連接埠，然後重新開啟 %s。
+"\n	EDLS takes no responsibility for reduced battery life, especially if an active alarm is left unattended.",\n	EDLS 對電池壽命縮短概不負責，尤其是在警報啟動而無人處理的情況下。
+You must select a macro before clicking Create.,您必須先選擇巨集才能按「建立」。
+Press the Ctrl key to prevent docking.,按住 Ctrl 鍵可防止停駐。
+TabStop,定位停駐點
+&Copy	Ctrl+C,複製(&C)	Ctrl+C
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+Workspace Manager,工作區管理員
+SECCryptoFile cannot be opened in both Output Feedback (OFB) mode and CFile::modeReadWrite.,SECCryptoFile 無法同時以輸出回饋（OFB）模式與 CFile::modeReadWrite 開啟。
+(new tool),（新工具）
+Select an Alternate Character Folder,選擇替代字元資料夾
+Next Tip,下一個提示
+Could not load Icon !,無法載入圖示！
+&Active Scr&ipt	Ctrl+M,Active Script(&I)	Ctrl+M
+Untitled,未命名
+Title,標題
+Resizable,可調整大小
+{Unknown},{未知}
+Select Tool,選取工具
+Then,Then
+false,false
+&Right,靠右(&R)
+Form,表單
+Add a label to this block\nAdd label,為此區塊新增標籤\n新增標籤
+Add an annotation to this data,為此資料新增註解
+Data at group %d index %d ,群組 %d 索引 %d 的資料 
+Integrator Alarm,累積警報
+Load a previously saved workspace,載入先前儲存的工作區
+Delete the selected workspace,刪除所選的工作區
+Activates user-defined tool 2\nUser-Tool 2,啟用使用者自訂工具 2\n使用者工具 2
+Large Icon\nLarge Icon,大圖示\n大圖示
+Align Left\nAlign Left,靠左對齊\n靠左對齊
+Make Same Width\nMake Same Width,設為相同寬度\n設為相同寬度
+Arranges the windows as overlapping tiles,將視窗排列為重疊並排
+There is a syntax error in the template comand,範本指令中有語法錯誤
+An even number of data items is required for this operation.,此操作需要偶數個資料項目。
+Compound component,複合元件
+Group scale,群組刻度
+PLUS,PLUS
+Out of range accessing GROUP,存取 GROUP 時超出範圍
+Unrecognised template command.,無法辨識的範本指令。
+SRGraphDynamicData,SRGraphDynamicData
+SRGDataWatcher,SRGDataWatcher
+SRGTickMarks,SRGTickMarks
+SRGGroupBar,SRGGroupBar
+SRGAreaGraph,SRGAreaGraph
+SRGPieGraph,SRGPieGraph
+SRGStrataHBarGraph,SRGStrataHBarGraph
+Close the active document\nClose,關閉使用中的文件\n關閉
+Open this document,開啟此文件
+Replace specific text with different text\nReplace,以不同文字取代特定文字\n取代
+Splits the active window into panes\nSplit,將使用中的視窗分割為窗格\n分割
+Switch to the next window pane\nNext Pane,切換至下一個視窗窗格\n下一個窗格
+Show or hide the toolbar\nToggle ToolBar,顯示或隱藏工具列\n切換工具列
+Close the active window and prompts to save the documents,關閉使用中的視窗並提示儲存文件
+&Hide,隱藏(&H)
+&One Page,單頁(&O)
+to %1,至 %1
+Failed to launch help.,無法啟動說明。
+Please enter an integer.,請輸入整數。
+Please enter a date and/or time.,請輸入日期及／或時間。
+"Unable to read from %1, it is opened by someone else.",無法從 %1 讀取，該檔案已被他人開啟。
+Unable to load mail system support.,無法載入郵件系統支援。
+Access to %1 was denied.,對 %1 的存取遭拒。
+Disk full while accessing %1.,存取 %1 時磁碟已滿。
+Uncheck,取消勾選
+Log O&ff\tF10,登出(&F)\tF10
+&Rearm...\tF12,重新待命(&R)...\tF12
+&Check for new version...,檢查新版本(&C)...
+&Print...\tCtrl+P,列印(&P)...\tCtrl+P
+&Unsplit,取消分割(&U)
+ShortcutList Menu,快速鍵清單功能表
+&Paste,貼上(&P)
+&Insert Control,插入控制項(&I)
+&Layout,版面配置(&L)
+&Vertical,垂直(&V)
+&Edit\tCtrl+E,編輯(&E)\tCtrl+E
+Forward 1,上移一層
+Restricted File Access,受限的檔案存取
+Unicode,Unicode
+Current Password:,目前密碼：
+Net&work...,網路(&W)...
+Instrument ID:,儀器 ID：
+Program Results,程式設定結果
+entries,筆項目
+Colours,色彩
+Time Zone,時區
+"The valid range of readings is between %s and %s, inclusive.",有效的讀數範圍介於 %s 與 %s 之間（含）。
+Y axis to reference,作為參考的 Y 軸
+&Interpolated from actual readings,由實際讀數內插而得(&I)
+Add a Digital Signature,新增數位簽章
+The electronics of this logger appears to have been exposed to an environment outside of its operating temperature range. The logger may therefore no longer function according to specifications.,此記錄器的電子元件似乎曾暴露於超出其操作溫度範圍的環境中。因此記錄器可能不再依規格正常運作。
+Active Workspace:,使用中的工作區：
+Assigned &shortcuts:,已指派的快速鍵(&S)：
+Commands,指令
+&Menu Text:,功能表文字(&M)：
+Toolbars:,工具列：
+Control:,控制項：
+This is your application.,這是您的應用程式。
+An error has occurred in the script,指令碼中發生錯誤
+Top,頂端
+X,X
+An&gle,角度(&G)
+Border Style,邊框樣式
+Shadow Style,陰影樣式
+Points,點
+Centered,置中
+Edit Resource Image,編輯資源影像
+&Last Group,最後一個群組(&L)
+Show Grid on Top,在最上層顯示格線
+Object Style,物件樣式
+&All Objects in this List,此清單中的所有物件(&A)
+&Angle,角度(&A)
+Page size,頁面大小
+Custom Margin,自訂邊界
+Units,單位
+&Username,使用者名稱(&U)
+Copy,複製
+"To upgrade to %s, you need to buy a licence and register your Site Code with your local distributor. Click the 'Register' button to obtain your Site Code and register now.",若要升級至 %s，您需要購買授權並向當地經銷商註冊您的站台代碼。請按「註冊」按鈕以取得站台代碼並立即註冊。
+Estimated Shelf Life before this trip,此行程前的預估保存期限
+Estimated Shelf Life,預估保存期限
+"Primal &where the slowest cooling point is fat OR a mixture (PH = 6.8, Lactate = 0, Water Activity = 0.990)",最慢冷卻點為脂肪或混合組織的原始部位(&W)（pH = 6.8、乳酸鹽 = 0、水活性 = 0.990）
+Printing,列印中
+Zoom &In,放大(&I)
+Unable to locate library (%s),無法找到程式庫 (%s)
+Actual Readings,實際讀數
+ESCORT Console Std,ESCORT Console Std
+Fax:,傳真：
+CSV (Comma delimited),CSV（逗號分隔）
+Meaning,意義
+Hour,小時
+Page %u of %u,第 %u 頁，共 %u 頁
+The license for this software has expired. Please contact your local distributor to update your software license.,本軟體的授權已過期。請聯絡您當地的經銷商以更新您的軟體授權。
+Runs used:,已使用次數：
+"The library ""%s"" is missing a critical function and the software cannot therefore continue. Please try reinstalling the software to correct this problem.",程式庫「%s」缺少一項關鍵功能，因此軟體無法繼續執行。請嘗試重新安裝軟體以解決此問題。
+Display summary information about the contents of the currently active document\nFile Properties,顯示目前使用中文件內容的摘要資訊\n檔案內容
+Changes options\nOptions,變更選項\n選項
+Remove the split(s) for the panes in the active window\nRemove Split,移除使用中視窗各窗格的分割\n移除分割
+Log a new user onto the software (Requires UserAdmin software)\nLogon,將新使用者登入本軟體（需要 UserAdmin 軟體）\n登入
+Blue Texture 2,藍色紋理 2
+Grey Texture 5,灰色紋理 5
+Welcome to the ESCORT program and configuration wizard.\nThis wizard will guide you through the program and configuration process of ESCORT products. Please click Next when you are ready to proceed.,歡迎使用 ESCORT 程式設定與組態設定精靈。\n本精靈將引導您完成 ESCORT 產品的程式設定與組態設定流程。準備好後請按「下一步」繼續。
+Please select the appropriate options to determine if and how the date and time with each logger currently is being programmed should be updated.,請選擇適當的選項，以決定目前正在進行程式設定的各記錄器的日期與時間是否更新以及如何更新。
+The ChartReader(s) currently is(are) being configured support password protection. ,目前正在組態設定的 ChartReader 支援密碼保護。
+The ESCORT REDi's you have selected are now having their new configuration settings uploaded. ,您所選取的 ESCORT REDi 正在上傳其新的組態設定。
+The readings have now been successfully downloaded. ,讀數已成功下載。
+The following options determine what the range of values the sensor will be recording.,下列選項決定感測器將記錄的數值範圍。
+Welcome to the Rearm wizard.\nThis wizard will guide you through the process of restarting ESCORT products that have been programmed before. Please click Next when you are ready to proceed.,歡迎使用重新待命精靈。\n本精靈將引導您完成重新啟動先前已進行程式設定的 ESCORT 產品的流程。準備好後請按「下一步」繼續。
+Select the sensor resolution that best matches your requirements. Decreasing the resolution allows the logger to store more readings in its memory.,選擇最符合您需求的感測器解析度。降低解析度可讓記錄器在記憶體中儲存更多讀數。
+IF YOU CHOOSE THIS OPTION YOU:,若您選擇此選項，您將：
+Please check the following:\n *Your product may require battery replacement or recharging. \n*Right COM port number is enabled in Edit/Options menu. \n*Interface cable is securely connected to the COM port.    \n*Logger is securely connected to the respective interface. \n\n,請檢查下列項目：\n *您的產品可能需要更換電池或充電。 \n*已在「編輯／選項」功能表中啟用正確的 COM 連接埠編號。 \n*介面纜線已穩固連接至 COM 連接埠。    \n*記錄器已穩固連接至對應的介面。 \n\n
+when the logger is reset by new program settings,當記錄器因新的程式設定而被重設時
+Group fields into single entry,將欄位合併為單一項目
+Ready,就緒
+Program,程式設定
+The software has not yet completed downloading all the readings you requested to retrieve. Are you sure you want to continue without retrieving all readings?,軟體尚未完成下載您要求擷取的所有讀數。您確定要在未取得所有讀數的情況下繼續嗎？
+Range,範圍
+Adjust Multibit Settings,調整 Multibit 設定
+Volt (V) loop on a standard adapter (%.*f to %.*f %s),標準轉接器上的伏特 (V) 迴路（%.*f 至 %.*f %s）
+increment,遞增
+value that the number of pulses,脈衝數所代表的數值
+View Manager,檢視管理員
+3D Graph,3D 圖表
+Calculated Values,計算值
+Virtual Sensors,虛擬感測器
+Lowest,最低
+Cargo ID,貨物 ID
+Sampling,取樣
+%lu %s from %.*f to %.*f,%lu %s，從 %.*f 至 %.*f
+Highest Electronics Temperature Recorded,記錄到的電子元件最高溫度
+Refrigeration Index,冷藏指數
+Show Current Readings,顯示目前讀數
+The software will display the data based on the time frame the readings span. ,軟體將根據讀數涵蓋的時間範圍顯示資料。
+Show connection reminder for downloading loggers and ChartReaders,下載記錄器與 ChartReader 時顯示連線提醒
+Configure multibit settings as part of sensor configuration wizard,將 Multibit 設定組態設定納入感測器組態設定精靈
+Fill to the left,向左填滿
+Use default colors,使用預設色彩
+English (UK),中文(台灣) 大元疫苗冰箱翻譯
+English (Belize),英文（貝里斯）
+French (Luxembourg),法文（盧森堡）
+Danish,丹麥文
+Polish,波蘭文
+Spanish (Panama),西班牙文（巴拿馬）
+Spanish (Uruguay),西班牙文（烏拉圭）
+List Report,清單報表
+Reading has comment attached,讀數附有備註
+3D Graphs,3D 圖表
+K,K
+ppm,ppm
+%lu minute,%lu 分鐘
+Default &Graph,預設圖表(&G)
+External Left,外部左側
+Ext. Red,外部紅色
+Carbon Dioxide,二氧化碳
+Cox DataSource Reader,Cox DataSource Reader
+ESCORT Intelligent/Wireless Mini,ESCORT Intelligent/Wireless Mini
+Logger,記錄器
+Trip Num,行程編號
+Specifications,規格
+OK,確定
+dd/MM/yy,dd/MM/yy
+The start delay you have specified is sooner than the minimum that is supported by the logger(s). Please specify a start delay between %s and %s.,您指定的啟動延遲早於記錄器所支援的最小值。請指定介於 %s 與 %s 之間的啟動延遲。
+"The logger(s) you are programming does not support the logging interval between each reading that you have specified. Please change the logging interval to a value between 1 and 255 minutes, inclusive.",您正在進行程式設定的記錄器不支援您指定的每筆讀數間記錄間隔。請將記錄間隔變更為介於 1 至 255 分鐘（含）之間的值。
+"The software has detected that the memory within the %s has been corrupted and at least %lu readings have been lost. The software will recover as many readings as possible, however",軟體偵測到 %s 內的記憶體已損毀，且至少有 %lu 筆讀數遺失。軟體將盡可能復原讀數，然而
+The operation was completed successfully.,操作已成功完成。
+The password supplied to protect the contents of the file %s was longer than permitted and has been truncated to the maximum number of characters.,用來保護檔案 %s 內容的密碼長度超過允許範圍，已被截短至最大字元數。
+The software has detected an internal problem with a parameter in its code that has prevented it from continuing successfully.,軟體在其程式碼中偵測到某個參數的內部問題，導致無法順利繼續執行。
+"The software has detected an error with one or more sensor configurations within the %s. The software will attempt to repair the damage, however stored readings may be unreliable. If the software is unable to correct the problem it is",軟體偵測到 %s 內一個或多個感測器組態設定發生錯誤。軟體將嘗試修復損壞，然而已儲存的讀數可能不可靠。若軟體無法解決此問題，則
+"The software has detected a problem with the configuration settings for one or more pulse counter sensors, which could cause the sensor to overflow resulting in incorrect readings.",軟體偵測到一個或多個脈衝計數器感測器的組態設定發生問題，這可能導致感測器溢位而產生錯誤讀數。
+This version of the software does not support %s with data segment version %s.,此版本的軟體不支援 %s（資料區段版本 %s）。
+The software attempted to use a communication protocol that is currently unsupported.,軟體嘗試使用目前不支援的通訊協定。
+The %s must be reset prior to an attempt to upload new program and configuration settings to the %s.,在嘗試將新的程式設定與組態設定上傳至 %s 之前，必須先重設 %s。
+"The software has detected that the memory within the %s has been corrupted and some readings have been lost. The software will recover as many readings as possible, however",軟體偵測到 %s 內的記憶體已損毀，且部分讀數已遺失。軟體將盡可能復原讀數，然而
+Failed to execute the application (%s) to indicate an alarm condition with a logger has been detected.,無法執行應用程式 (%s) 以指示偵測到記錄器的警報狀態。
+You must enter a number of pulses before continuing.,您必須先輸入脈衝數才能繼續。
+Numeric overflow - unable to store this number. Reduce the number of decimal places or scale the value up or down to the next appropriate units (eg from mV to V or A to mA). ,數值溢位 - 無法儲存此數字。請減少小數位數，或將數值向上或向下換算至下一個適當的單位（例如從 mV 換算為 V，或從 A 換算為 mA）。
+The number of bits per sample must be within the range %hu to %hu bits. Please enter a value within this range.,每筆取樣的位元數必須介於 %hu 至 %hu 位元之間。請輸入此範圍內的值。
+"To use Estimated Shelf Life calculation, please select the product.\nOtherwise click Cancel.",若要使用預估保存期限計算，請選擇產品。\n否則請按「取消」。
+Below Alarm Lower Spec.,低於警報下限規格
+The new password you have supplied is too short. Password must be at least %d characters long.,您提供的新密碼太短。密碼長度必須至少為 %d 個字元。
+The COM port usually used by %s is not available or used by another device.,%s 通常使用的 COM 連接埠無法使用，或已被其他裝置使用。
+\n	NOTE! The Sound of your Wireless Mini’s beeper may be hard to recognise in an industrial/ noisy environment. It is not advisable to enable your logger’s beeper if the logger is installed in a location where it can be difficult to hear or no regular check is made.,\n	注意！在工業或嘈雜環境中，您的 Wireless Mini 蜂鳴器的聲音可能不易辨識。若記錄器安裝在難以聽見聲音或無定期檢查的位置，建議不要啟用記錄器的蜂鳴器。
+Reset All will set all shortcuts back to their defaults.  Any shortcuts you have created will be forgotten.  Are you sure you want to do this?,「全部重設」會將所有快速鍵恢復為預設值。您建立的任何快速鍵都將遺失。您確定要執行此操作嗎？
+&Reset,重設(&R)
+ Visible, 可見
+&Paste	Ctrl+V,貼上(&P)	Ctrl+V
+Expand docked window,展開停駐視窗
+Invalid workspace name.,工作區名稱無效。
+Overview Window,總覽視窗
+The menu text cannot be blank,功能表文字不可空白
+Select the Default Character Folder,選擇預設字元資料夾
+Change Default Character,變更預設字元
+Could not load the Bitmap!,無法載入點陣圖！
+&Active &Objects	Ctrl+M,使用中物件(&A)	Ctrl+M
+AAAAAAA,AAAAAAA
+BorderStyle,BorderStyle
+Thin,細
+0 - False,0 - False
+Not Enough Memory,記憶體不足
+Else,Else
+null,null
+D&ocked to,停駐至(&O)
+Form Page,表單頁
+Read a component list,讀取元件清單
+Syntax error in..>,語法錯誤於..>
+All files (*.*)\n*.*,所有檔案 (*.*)\n*.*
+Number of &consecutive out of specification readings,連續超出規格讀數的數目(&C)
+Save the open windows and their position on the desktop,儲存開啟的視窗及其在桌面上的位置
+Activate selected window,啟用選取的視窗
+Activates user-defined tool 3\nUser-Tool 3,啟用使用者自訂工具 3\n使用者工具 3
+Small Icon\nSmall Icon,小圖示\n小圖示
+Align Right\nAlign Right,靠右對齊\n靠右對齊
+Make Same Height\nMake Same Height,設為相同高度\n設為相同高度
+"Arranges the windows as vertical, non-overlapping tiles",將視窗排列為垂直、不重疊的並排顯示
+The labelling of this graph has reduced the display area to zero,此圖表的標籤已使顯示區域縮減為零
+A required data item was found to contain a null value.,發現必要的資料項目包含 null 值。
+Compound display,複合顯示
+Date scale,日期刻度
+TRIANGLE,TRIANGLE
+Out of range accessing INDEX,存取 INDEX 時超出範圍
+Template syntax error.\nThere is an error in the border declaration.,範本語法錯誤。\n邊框宣告中有錯誤。
+SRGraphRect,SRGraphRect
+SRGraphBackground,SRGraphBackground
+SRGDecimalScale,SRGDecimalScale
+SRGDateBar,SRGDateBar
+SRGBubbleGraph,SRGBubbleGraph
+SRGPolarGraph,SRGPolarGraph
+SRGStrataVBarGraph,SRGStrataVBarGraph
+Save the active document\nSave,儲存使用中文件\n儲存
+Erase the selection\nErase,清除選取項目\n清除
+Select all the information displayed\nSelect All,選取所有顯示的資訊\n全選
+"Display program information, version number and copyright\nAbout",顯示程式資訊、版本編號與版權\n關於
+Switch back to the previous window pane\nPrevious Pane,切換回上一個視窗窗格\n上一個窗格
+Show or hide the status bar\nToggle StatusBar,顯示或隱藏狀態列\n切換狀態列
+Restore the window to normal size,將視窗還原為正常大小
+No error message is available.,無可用的錯誤訊息。
+&Two Page,兩頁(&T)
+Invalid filename.,檔案名稱無效。
+Internal application error.,應用程式內部錯誤。
+Please enter a number.,請輸入數字。
+Please enter a currency.,請輸入貨幣金額。
+"Unable to write to %1, it is read-only or opened by someone else.",無法寫入 %1，該檔案為唯讀或已被他人開啟。
+Mail system DLL is invalid.,郵件系統 DLL 無效。
+An invalid file handle was associated with %1.,與 %1 關聯的檔案控制代碼無效。
+An attempt was made to access %1 past its end.,嘗試存取 %1 超過其結尾的位置。
+Check,檢查
+Change &Details...,變更詳細資料(&D)...
+&Program and Configure...\tF6,程式設定與組態設定(&P)...\tF6
+&Online,線上(&O)
+Print Pre&view,預覽列印(&V)
+Cl&ose,關閉(&O)
+Large Icon,大圖示
+Bring to &Front,移至最上層(&F)
+&Run\tF5,執行(&R)\tF5
+&Align Controls,對齊控制項(&A)
+&Horizontal,水平(&H)
+Load components...,載入元件...
+Back 1,下移一層
+Access to the file %s is protected by a password. Please provide the correct password to access this file.,檔案 %s 的存取受密碼保護。請提供正確的密碼以存取此檔案。
+Tip of the Day,每日提示
+New Password:,新密碼：
+< &Back,< 上一步(&B)
+Number of readings taken:,已擷取的讀數數目：
+Password Required,需要密碼
+Default &Folder,預設資料夾(&F)
+Category:,類別：
+Please select the time zone that best represents your current location and/or the time zone that you want the date and times of readings recorded by loggers to be displayed in.,請選擇最能代表您目前所在位置的時區，以及／或是您希望記錄器所記錄讀數的日期與時間所要顯示的時區。
+&Update all report displays,更新所有報表顯示(&U)
+%s (maximum is %s),%s（最大值為 %s）
+&Default,預設(&D)
+Meaning:,意義：
+&Previous Tip,上一個提示(&P)
+<<workspace here>>,<<workspace here>>
+&Remove,移除(&R)
+Buttons,按鈕
+C&ommand:,命令(&O)：
+Toolbar name:,工具列名稱：
+Name in the script:,指令碼中的名稱：
+"It has a lot of windows, framed windows and dialog boxes. All of them are static - just as this one. Once dialog template was compiled into your app, it can not be easily changed at run time.",它有許多視窗、框架視窗與對話方塊。它們全都是靜態的，就像這個一樣。一旦對話方塊範本編譯進您的應用程式後，便無法在執行階段輕易變更。
+Annotation Editor,註解編輯器
+Right,右
+Y,Y
+&None,無(&N)
+Thin &Raised Border,細凸起邊框(&R)
+&Thin Shadow,細陰影(&T)
+Autosize,自動調整大小
+Button1,Button1
+&Library name,程式庫名稱(&L)
+First &Index,第一個索引(&I)
+Show X Grid Lines,顯示 X 格線
+&Object  ,物件(&O)  
+Interior,內部
+&Resource,資源(&R)
+&Use max size,使用最大尺寸(&U)
+Chart Size,圖表大小
+Centimeters,公分
+&Password,密碼(&P)
+Site Key:,站台金鑰：
+You can also obtain your Site Code or enter the Site Key provided by your distributor by accessing the 'Help' menu and selecting 'Licence'.,您也可以開啟「說明」功能表並選擇「授權」，取得您的站台代碼或輸入經銷商提供的站台金鑰。
+days left,剩餘天數
+Optimal Temperature,最佳溫度
+"&Offal (PH = 6.8, Lactate = 51.0, Water Activity = 0.995)",內臟(&O)（pH = 6.8、乳酸鹽 = 51.0、水活性 = 0.995）
+Document :,文件：
+Zoom &Out,縮小(&O)
+The corresponding help file for the installed language could not be found. Please try reinstalling the software to correct this problem.,找不到所安裝語言對應的說明檔。請嘗試重新安裝軟體以修正此問題。
+Alarm Limits,警報界限
+ESCORT Console Pro,ESCORT Console Pro（大元疫苗冰箱中文化）
+E-Mail:,電子郵件：
+SYLK (Symbolic link),SYLK（符號連結）
+Timestamp,時間戳記
+Hours,小時
+on %s,於 %s
+Software will continue in standard mode.,軟體將以標準模式繼續執行。
+Runs issued:,已核發執行次數：
+"The library ""%s"" is unable to find required installation information and the software cannot therefore continue. Please try reinstalling the software to correct this problem.",程式庫「%s」找不到所需的安裝資訊，因此軟體無法繼續執行。請嘗試重新安裝軟體以修正此問題。
+Add and/or view digital signatures to the currently active document (Requires UserAdmin software)\nDigital Sign,為目前使用中的文件加入及／或檢視數位簽章（需要 UserAdmin 軟體）\n數位簽章
+Program and configure loggers or ChartReaders\nProgram and Configure,對記錄器或 ChartReader 進行程式設定與組態設定\n程式設定與組態設定
+Display the Tip of the Day\nTip of the day,顯示每日提示\n每日提示
+Log the current user off the software (Requires UserAdmin software)\nLogoff,將目前使用者登出軟體（需要 UserAdmin 軟體）\n登出
+Blue Texture 3,藍色紋理 3
+White Texture 1,白色紋理 1
+The communication ports are now being checked for ESCORT products. ,正在檢查通訊連接埠是否有 ESCORT 產品。 
+Please select the appropriate options to determine when the logger(s) should start and finish recording their new set of readings.,請選擇適當的選項，以決定記錄器何時開始及結束記錄新一批讀數。
+Please supply the appropriate descriptions for the ESCORT ChartReaders currently being configured. ,請為目前正在組態設定的 ESCORT ChartReader 提供適當的描述。 
+"If you would like to program and configure additional loggers, ChartReaders and/or REDi's, you may do so now by selecting the appropriate option and clicking Next, otherwise click Finish.",如果您想對其他記錄器、ChartReader 及／或 REDi 進行程式設定與組態設定，現在可選擇適當的選項並按「下一步」；否則請按「完成」。
+"If you would like to select new start conditions for the ESCORT products that have just had their readings downloaded, select the appropriate option and click Next when you are ready to continue. Otherwise, you may click Finish to view the downloaded readings or click Restart to download readings from another device.",如果您想為剛剛下載完讀數的 ESCORT 產品選擇新的啟動條件，請選擇適當的選項，並在準備就緒後按「下一步」繼續。否則，您可按「完成」檢視已下載的讀數，或按「重新開始」以從另一裝置下載讀數。
+The following options determine the configuration and calibration of the pulse count sensor and are used for converting pulses into meaningful values.,下列選項決定脈衝計數感測器的組態設定與校正，並用於將脈衝轉換為有意義的數值。
+You can select the ESCORT products that you want to restart by putting a check in the box next to the entry. A cross in that box indicates that this feature is not available for that product. You may click Next when you are ready to continue.,您可勾選項目旁的核取方塊，以選擇要重新啟動的 ESCORT 產品。方塊中若顯示叉號，表示該產品不支援此功能。準備就緒後可按「下一步」繼續。
+The temperature of the insulated electronics are recorded to ensure they do not exceed specified operating temperature of %d %s. This sensor has recorded temperatures in excess of %d %s. As a result the logger may not function according to specifications. ,系統會記錄隔離電子元件的溫度，以確保其不超過規定的工作溫度 %d %s。此感測器已記錄到超過 %d %s 的溫度。因此，記錄器可能無法依規格正常運作。 
+\n	* CAN download the logger with %s\n	* CANNOT see the logger data with %s,\n	* 可以使用 %s 下載記錄器\n	* 無法使用 %s 檢視記錄器資料
+"Press the ""Search"" button below when you are ready to try again.\n Alternatively, you can press the ""Cancel"" button to check your settings in Edit/Options menu.",準備好重試後，請按下方的「搜尋」按鈕。\n 或者，您可按「取消」按鈕，到「編輯/選項」功能表中檢查您的設定。
+when %lu readings have been taken,已擷取 %lu 筆讀數時
+The software has not yet completed programming the logger(s) and/or ChartReader(s) you requested. If you do continue they should not be used further until new settings have been uploaded. Are you sure you want to continue?,軟體尚未完成您所要求的記錄器及／或 ChartReader 的程式設定。若您繼續，在新設定上傳之前不應再使用這些裝置。您確定要繼續嗎？
+Search,搜尋
+General,一般
+The process of rearming loggers and/or deleting all data blocks from ChartReaders has not yet finished. Are you sure you want to continue without finishing these tasks?,重新待命記錄器及／或刪除 ChartReader 中所有資料區塊的程序尚未完成。您確定要在未完成這些工作的情況下繼續嗎？
+Calibrate,校正
+Custom adapter,自訂轉接器
+Pulse Counting Interface (Count Mode),脈衝計數介面（計數模式）
+lower,下限
+The %s value must be in the range %.1f to %.1f degree-minutes.,%s 值必須介於 %.1f 至 %.1f 度-分鐘之間。
+Views,檢視
+Line,線條
+Mean Average,平均值
+User Defined,使用者自訂
+Average,平均
+Instrument ID,儀器 ID
+Active,啟用
+%lu %s less than %.*f,%lu %s 小於 %.*f
+Highest Electronics Temperature Recorded This Trip,本次行程記錄到的最高電子元件溫度
+Predicted generations Growth\n%s,預測世代成長\n%s
+"This process will guide you through the steps necessary to synchronize trip data from multiple loggers, which may have been logged over different time periods and/or different logging intervals so that the data can be viewed ",此程序將引導您完成同步多台記錄器行程資料所需的步驟，這些記錄器可能是在不同時段及／或不同記錄間隔下記錄的，以便檢視這些資料 
+"As the software is aligning the data based on the elapsed time of the readings, the software will be not be able to display the date/time of any of the readings. ",由於軟體是依據讀數的經過時間來對齊資料，因此軟體將無法顯示任何讀數的日期/時間。 
+Show connection reminder for restarting loggers and ChartReaders,重新啟動記錄器與 ChartReader 時顯示連線提醒
+Graph Options,圖表選項
+Fill to the right,向右填滿
+Do not use any,全部不使用
+English (Australian),英文（澳洲）
+English (Trinidad),英文（千里達）
+French (Monaco),法文（摩納哥）
+Dutch,荷蘭文
+Portuguese (Brazil),葡萄牙文（巴西）
+Spanish (Dominican Republic),西班牙文（多明尼加共和國）
+Spanish (Paraguay),西班牙文（巴拉圭）
+Reading above specification,讀數高於規格
+Reading was marked,讀數已標記
+Z Grid,Z 格線
+%RH,%RH
+ppm Carbon Dioxide,ppm 二氧化碳
+%lu hour,%lu 小時
+Edit &Links...,編輯連結(&L)...
+External Right,外部右側
+Ext. Blue,外部藍色
+Analogue,類比
+ESCORT Junior,ESCORT Junior
+ESCORT AutoClave,ESCORT AutoClave
+Logger (Description),記錄器（描述）
+First Reading,第一筆讀數
+Current Reading,目前讀數
+Low,低
+MM/dd/yy,MM/dd/yy
+The start delay you have specified is more than the maximum that is supported by the logger(s). Please specify a start delay between %s and %s.,您指定的啟動延遲超過記錄器所支援的最大值。請指定介於 %s 與 %s 之間的啟動延遲。
+"The logger(s) you are programming does not support the logging interval between each reading that you have specified. Please change the logging interval to a value between %lu and 59 seconds, or 1 and 255 minutes, inclusive.",您正在進行程式設定的記錄器不支援您所指定的每筆讀數間記錄間隔。請將記錄間隔改為介於 %lu 至 59 秒，或 1 至 255 分鐘（含端值）之間的數值。
+it is therefore recommended that you contact %s to ensure that this %s will continue function according to original specifications.,因此建議您聯絡 %s，以確保此 %s 能繼續依原始規格正常運作。
+A general failure occurred.,發生一般性失敗。
+"An error occurred while accessing the file %s, indicating that the file is corrupted and this software is therefore unable to access the data within.",存取檔案 %s 時發生錯誤，表示該檔案已毀損，因此本軟體無法存取其中的資料。
+"The software has detected an error with the calibration information of a humidity sensor within the %s that cannot be repaired by this software, which will need to be resolved by having the sensor correctly re-calibrated.",軟體偵測到 %s 內某個濕度感測器的校正資訊有錯誤，且本軟體無法修復，必須將該感測器正確重新校正才能解決。
+The lease on this %s has expired and can no logger receive new program and configuration settings. Please return the %s to %s.,此 %s 的租用期已到期，無法再接收新的程式設定與組態設定。請將 %s 退回 %s。
+"The software has identified that the %s currently has the self test feature enabled, which is not supported by this version of the software.",軟體已偵測到 %s 目前啟用了自我測試功能，而此版本的軟體不支援該功能。
+This version of the software does not support the version of the humidity calibration within the %s.,此版本的軟體不支援 %s 內所採用的濕度校正版本。
+"The response received from the %s failed its integrity checks, indicating possible problems with the communications port and/or the power supply in the %s.",從 %s 收到的回應未通過完整性檢查，表示通訊連接埠及／或 %s 的電源供應可能有問題。
+"The software was unable to continue as the system failed to allocate %lu bytes of memory, which indicates that this system is running low on resources and it is therefore recommended you try closing other programs before continuing.",軟體無法繼續執行，因為系統無法配置 %lu 位元組的記憶體，這表示系統資源不足，因此建議您在繼續之前先關閉其他程式。
+An internal error occurred as the software attempted to access a task that it does not have the authority to perform.,軟體嘗試存取一項其無權執行的工作時，發生內部錯誤。
+"The start delay must be between %s and %s, inclusive. Please specify a delay within these limits to continue.",啟動延遲必須介於 %s 與 %s 之間（含端值）。請指定此範圍內的延遲以繼續。
+You must enter the maximum value to be measured before continuing.,您必須先輸入要量測的最大值才能繼續。
+"Unable to store values of this magnitude. Please scale values up or down to the next appropriate units. For example, from mV to V, or A to mA.",無法儲存如此大小的數值。請將數值放大或縮小至下一個適當的單位。例如，從 mV 改為 V，或從 A 改為 mA。
+Unable to locate web browser to connect to %s. This may be because there is no browser installed or your browser isn't set as the default browser.,找不到可連線至 %s 的網頁瀏覽器。這可能是因為未安裝瀏覽器，或您的瀏覽器未設為預設瀏覽器。
+"To use Estimated Shelf Life calculation, please enter number of days left.\nOtherwise click Cancel.",若要使用預估保存期限計算，請輸入剩餘天數。\n否則請按「取消」。
+No Alarm,無警報
+Please contact your system administrator.,請聯絡您的系統管理員。
+ %s has selected the serial port for communication with products to COM%hu., %s 已將與產品通訊用的序列埠選為 COM%hu。
+"If you do not require audible alarms, we recommend you use the following option.",如果您不需要音效警報，建議您使用下列選項。
+(Unassigned),（未指派）
+&Delete,刪除(&D)
+noclose,noclose
+&Delete	Delete,刪除(&D)	Delete
+Contract docked window,收合停駐視窗
+Workspace '%s' already exists. Please enter a unique workspace name.,工作區「%s」已存在。請輸入不重複的工作區名稱。
+Alt + ,Alt + 
+(none),（無）
+Cannot find the default Agent Characters directory. Manually select the directory where the *.acs character files are stored,找不到預設的 Agent Characters 目錄。請手動選取存放 *.acs 角色檔案的目錄
+Control item,控制項目
+*.cur,*.cur
+Unable to host this control because type information can not be obtained.,無法裝載此控制項，因為無法取得型別資訊。
+ID,ID
+Yes,是
+RestorePos,RestorePos
+1 - True,1 - True
+Sub,Sub
+Next,Next
+Rasing Exception...,正在引發例外...
+Mi&nimized,最小化(&N)
+OLE initialization failed.  Make sure that the OLE libraries are the correct version.,OLE 初始化失敗。請確認 OLE 程式庫的版本正確。
+Save the component list,儲存元件清單
+SRGraph template not found,找不到 SRGraph 範本
+&Other...,其他(&O)...
+&Total number of out of specification readings,超出規格讀數的總數(&T)
+Create a new workspace,建立新的工作區
+Open the selected workspace,開啟所選的工作區
+Activates user-defined tool 4\nUser-Tool 4,啟用使用者自訂工具 4\n使用者工具 4
+Toggle between Object View / Script View\nObject View / Script View,在物件檢視／指令碼檢視之間切換\n物件檢視／指令碼檢視
+Align Top\nAlign Top,靠上對齊\n靠上對齊
+Make Same Size\nMake Same Size,設為相同大小\n設為相同大小
+"Arranges the windows as horizontal, non-overlapping tiles",將視窗排列為水平、不重疊的並排顯示
+An un-defined exception has been invoked.,已引發未定義的例外。
+Component,元件
+Axis Manager,座標軸管理員
+STAR,STAR
+Components,元件
+Dynamic data error,動態資料錯誤
+SRGraphDynamicData data access error\nAttempt to access data outside of buffer.\nCall SetGrowSize() to enable buffer growth.,SRGraphDynamicData 資料存取錯誤\n嘗試存取緩衝區以外的資料。\n請呼叫 SetGrowSize() 以啟用緩衝區成長。
+SRGraphComponent,SRGraphComponent
+SRGraphTitle,SRGraphTitle
+SRGLogScale,SRGLogScale
+SRGLogBar,SRGLogBar
+SRGCandleGraph,SRGCandleGraph
+SRGScatterGraph,SRGScatterGraph
+SRGVBarGraph,SRGVBarGraph
+Save the active document with a new name\nSave As,以新名稱儲存使用中的文件\n另存新檔
+Erase everything\nErase All,清除全部\n全部清除
+Undo the last action\nUndo,復原上一個動作\n復原
+Quit the application; prompts to save documents\nExit,結束應用程式；會提示儲存文件\n結束
+EXT,EXT
+Change the window size,變更視窗大小
+Activate Task List,啟動工作清單
+An unsupported operation was attempted.,嘗試執行了不支援的作業。
+Page %u,第 %u 頁
+Failed to open document.,無法開啟文件。
+Command failed.,指令失敗。
+Please enter an integer between %1 and %2.,請輸入介於 %1 與 %2 之間的整數。
+Please enter a GUID.,請輸入 GUID。
+An unexpected error occurred while reading %1.,讀取 %1 時發生未預期的錯誤。
+Send Mail failed to send message.,傳送郵件失敗，無法傳送訊息。
+%1 could not be removed because it is the current directory.,無法移除 %1，因為它是目前的目錄。
+An attempt was made to write to the reading %1.,曾嘗試寫入讀數 %1。
+Mixed,混合
+Recent File,最近的檔案
+&Download Information...\tF7,下載資訊(&D)...\tF7
+&Visit Home Page...,造訪首頁(&V)...
+Sen&d...,傳送(&D)...
+Close A&ll,全部關閉(&L)
+Small Icon,小圖示
+Send to &Back,移至最下層(&B)
+&View,檢視(&V)
+&Vert. Center,垂直置中(&V)
+&Make Same Size,設為相同大小(&M)
+Save components...,儲存元件...
+Add text,新增文字
+Password:,密碼：
+&Show Tips at Startup,啟動時顯示提示(&S)
+Confirm Password:,確認密碼：
+%s Properties,%s 內容
+Number of sensors active:,啟用的感測器數量：
+Synchronisation Settings,同步設定
+Please select the default folder,請選取預設資料夾
+Foreground:,前景：
+Use daylight &time,使用日光節約時間(&T)
+Data,資料
+%s (minimum is %s),%s（最小值為 %s）
+&Custom,自訂(&C)
+Instrument ID#:,儀器 ID#：
+Windows,Windows
+&Open,開啟舊檔(&O)
+Reset A&ll,全部重設(&L)
+Categories:,類別：
+Argume&nts:,引數(&N)：
+&Show Tooltips,顯示工具提示(&S)
+&Apply,套用(&A)
+With ActiveHost MFC extension library your application can have windows that can be modified at run time. New scripted windows can be added and invoked by other forms. These scripted windows can access the OLE ,藉由 ActiveHost MFC 擴充程式庫，您的應用程式可擁有可於執行階段修改的視窗。可新增以指令碼撰寫的新視窗，並由其他表單叫用。這些以指令碼撰寫的視窗可存取 OLE 
+&Text,文字(&T)
+Bottom,底部
+Z,Z
+&Solid color,純色(&S)
+Thin &Sunken Border,細凹陷邊框(&S)
+&Medium Shadow,中等陰影(&M)
+Style,樣式
+Font &Color,字型色彩(&C)
+Editing Data Value,編輯資料值
+Last I&ndex,最後索引(&N)
+Show Y Grid Lines,顯示 Y 格線
+&Frame ,框架(&F) 
+&Style,樣式(&S)
+Stretch,延展
+Selecting,選取中
+Full Page,整頁
+Position/Margins,位置/邊界
+&Meaning,意義(&M)
+Paste,貼上
+"You have successfully activated your software to %s. Thank you for purchasing our product, now you will have more features added to your software.",您已成功將軟體啟用至 %s。感謝您購買本產品，現在您的軟體將新增更多功能。
+Current trip,目前行程
+Highest Freezing Point,最高凝固點
+"&Recovered meat products (PH = 6.8, Lactate = 51.0, Water Activity = 0.995)",回收肉品(&R)（pH = 6.8、乳酸鹽 = 51.0、水活性 = 0.995）
+Page :,頁次：
+|< &Restart,|< 重新啟動(&R)
+&Search,搜尋(&S)
+Searching COM port ...,正在搜尋 COM 連接埠...
+This will retrieve information from loggers and/or ChartReaders through the communication port(s) to allow you to configure the various settings.,此操作將透過通訊連接埠從記錄器及/或 ChartReader 擷取資訊，讓您可以組態設定各項設定。
+Please ensure all loggers are in an interface and/or ChartReaders are also connected to the communication port(s) of this computer.,請確認所有記錄器均已置入介面中，且 ChartReader 也已連接至本電腦的通訊連接埠。
+Press Next when ready to proceed,準備就緒後請按「下一步」繼續
+&Do not remind me of this again,不要再提醒我(&D)
+&Description:,描述(&D)：
+Upgrade Data Format,升級資料格式
+Change Password...,變更密碼...
+Create &PDF file.,建立 PDF 檔(&P)。
+Show &Summary in PDF file.,在 PDF 檔中顯示摘要(&S)。
+Show &Graph in PDF file.,在 PDF 檔中顯示圖表(&G)。
+Show &List of readings in PDF file.,在 PDF 檔中顯示讀數清單(&L)。
+Date &Format in PDF file:,PDF 檔中的日期格式(&F)：
+&Configure Sensor(s)...,組態設定感測器(&C)...
+Group by:,分組依據：
+Do not make any change to the date or time of the logger(s).,不變更記錄器的日期或時間。
+Change to the same date and time of this computer.,變更為與本電腦相同的日期和時間。
+Set to:,設定為：
+"&Duration of trip, at least:",行程持續時間，至少(&D)：
+Interval between each reading:,每筆讀數之間的間隔：
+"days,",天，
+Start new log trip:,開始新的記錄行程：
+Wait,等待
+In,經過
+At,於
+after %s start,在 %s 啟動後
+Finish log trip:,結束記錄行程：
+After,經過
+Continuous logging,連續記錄
+readings.,筆讀數。
+Enable the beeper in the logger(s).,啟用記錄器的蜂鳴器。
+Enable the Stop button in the logger(s).,啟用記錄器的停止按鈕。
+Enable auto-restart in the logger(s).,啟用記錄器的自動重新啟動。
+Estimated battery remaining: %s,估計剩餘電池電量：%s
+New battery is fitted.,已裝入新電池。
+Upper,上限
+Lower,下限
+Summary Step,摘要步階
+Show when the reading is out of specification,當讀數超出規格時顯示
+Raise alarm on readings above upper specification,讀數高於規格上限時發出警報
+Raise alarm on readings below lower specification,讀數低於規格下限時發出警報
+Deactivate alarm by pressing the switch,按下開關以解除警報
+Units on the display,顯示幕上的單位
+Deactivate consecutive readings alarm if readings return within specifications,若讀數回到規格範圍內，則解除連續讀數警報
+Total number of out of specification readings before alarm activated,啟動警報前的超出規格讀數總數
+Number of consecutive out of specification readings before alarm raised,發出警報前的連續超出規格讀數數量
+Maximum,最大值
+Minimum,最小值
+Increment,增量
+Mode,模式
+Raise alarm on readings above maximum specification,讀數高於規格最大值時發出警報
+Raise alarm on readings below minimum specification,讀數低於規格最小值時發出警報
+Deactivate alarm by using the magnet,使用磁鐵以解除警報
+Additional Information Format:,附加資訊格式：
+Sent By,寄件者
+Consigned To,收件者
+  Name,  姓名
+  Company,  公司
+  Address,  地址
+  City,  城市
+  Country,  國家/地區
+Additional Information:,附加資訊：
+General Information,一般資訊
+&Description,描述(&D)
+&Asset Number,資產編號(&A)
+Printable Messages,可列印訊息
+Line #&1,第 1 行(&1)
+Line #&2,第 2 行(&2)
+Line #&3,第 3 行(&3)
+Line #&4,第 4 行(&4)
+Operating Options,操作選項
+&Enable internal beeper,啟用內建蜂鳴器(&E)
+Can &re-arm a logger,可重新待命記錄器(&R)
+Can store &multiple downloads,可儲存多次下載(&M)
+Power Options,電源選項
+&Turn off after:,經過下列時間後關閉(&T)：
+General Options,一般選項
+Temperature &units,溫度單位(&U)
+&Date Format,日期格式(&D)
+SAMPLE,範例
+List Options,清單選項
+&Only out of specification readings,僅顯示超出規格的讀數(&O)
+&Log cycle summary,記錄週期摘要(&L)
+0xB0C (32xB0F) &reference line,0°C (32°F) 參考線(&R)
+&Specification lines,規格線(&S)
+Sensor la&bels on each section,每個區段顯示感測器標籤(&B)
+Y-&Axis on each section,每個區段顯示 Y 軸(&A)
+Log c&ycle summary,記錄週期摘要(&Y)
+Define Y-Axis Range,定義 Y 軸範圍
+&Full range of the sensor,感測器的完整範圍(&F)
+&Specification range plus the following number of specification increments:,規格範圍加上下列數量的規格增量(&S)：
+Y-Axis Range Options,Y 軸範圍選項
+&Round to the nearest,四捨五入至最接近(&R)
+Format,格式
+Text &orientation,文字方向(&O)
+&Compression,壓縮(&C)
+&mm,公釐(&M)
+&Delete all the data blocks from within the ChartReader(s),刪除 ChartReader 內的所有資料區塊(&D)
+D&escription,描述(&E)
+Date &Format,日期格式(&F)
+&Time Format,時間格式(&T)
+&Auto off delay,自動關閉延遲(&A)
+Slider1,滑桿1
+Time delay,時間延遲
+Back&light on time,背光開啟時間(&L)
+LCD &Contrast,LCD 對比(&C)
+contrast level,對比等級
+&Rechargeable batteries are fitted,已裝入充電式電池(&R)
+Change &Password...,變更密碼(&P)...
+&Delete all the data blocks from within the REDi.,刪除 REDi 內的所有資料區塊(&D)。
+Do NOT remove logger(s) or ChartReader(s) from their interface during this process.,在此過程中請勿將記錄器或 ChartReader 從介面中移除。
+Program and configure additional device with the &same settings,使用相同設定來程式設定並組態設定其他裝置(&S)
+Please remember that the logger(s) require %s start.,請記得記錄器需要 %s 啟動。
+This will retrieve information from loggers and/or ChartReaders through the communication port(s) to allow you to retrieve the readings that have been recorded by the loggers.,此操作將透過通訊連接埠從記錄器及/或 ChartReader 擷取資訊，讓您可以取得記錄器所記錄的讀數。
+Restart,重新啟動
+Logger options,記錄器選項
+Do not upload any new start conditions to the logger(s),不上傳任何新的啟動條件至記錄器
+Start in:,於下列時間後開始：
+Start at:,開始時間：
+ChartReader options,ChartReader 選項
+&Delete all the data blocks from within the Device.,刪除裝置內的所有資料區塊(&D)。
+Set logger clock to the same date and time of this computer.,將記錄器時鐘設定為與本電腦相同的日期和時間。
+Download information from additional loggers and/or ChartReaders,從其他記錄器及/或 ChartReader 下載資訊
+Please wait ...,請稍候...
+Display &Format:,顯示格式(&F)：
+&Save As...,另存新檔(&S)...
+Delay between each update (secs):,每次更新之間的延遲（秒）：
+Last updated:,上次更新：
+This will retrieve information from loggers connected to the computer's communication ports to display sensor readings. WARNING: Performing this operation drains logger batteries at approximately 1000 times the normal rate.,此操作將從連接至電腦通訊連接埠的記錄器擷取資訊，以顯示感測器讀數。警告：執行此操作會以約正常速率 1000 倍的速度耗盡記錄器電池。
+Please ensure all loggers are in an interface connected to the communication port(s) of this computer.,請確認所有記錄器均已置入連接至本電腦通訊連接埠的介面中。
+Type:,類型：
+Interface:,介面：
+Mi&nimum:,最小值(&N)：
+Ma&ximum:,最大值(&X)：
+&Units:,單位(&U)：
+&4 to 20 mA Adapter,4 至 20 mA 轉接器(&4)
+&Pulses /,脈衝(&P) /
+&Value,數值(&V)
+&Units,單位(&U)
+&Maximum value to measure,可測量的最大值(&M)
+Range:,範圍：
+&Increment:,增量(&I)：
+Optimise &Multibit Settings,最佳化多位元設定(&M)
+Raise alarm on below &lower spec readings,讀數低於規格下限時觸發警報(&L)
+Raise alarm on above &upper spec readings,讀數高於規格上限時觸發警報(&U)
+&Deactivate alarm if conditions go back into spec,條件回到規格範圍內時解除警報(&D)
+&Audible alarm,聲響警報(&A)
+Deactivate alarm by using the &magnet,使用磁鐵解除警報(&M)
+&Show this sensor's reading on the display,在顯示幕上顯示此感測器的讀數(&S)
+&Indicate when the current reading is out of specification,目前讀數超出規格時加以標示(&I)
+S&how the symbol of the sensor's measurement units,顯示感測器測量單位的符號(&H)
+&Units of measurement of the readings on the display:,顯示幕上讀數的測量單位(&U)：
+Show this sensor's &average reading,顯示此感測器的平均讀數(&A)
+Show this sensor's &highest reading,顯示此感測器的最高讀數(&H)
+Show this sensor's &lowest reading,顯示此感測器的最低讀數(&L)
+Show time this sensor has spent above specification,顯示此感測器超出規格上限的時間
+Show time this sensor has spent below specification,顯示此感測器低於規格下限的時間
+Time each sensor information is shown (seconds):,每筆感測器資訊的顯示時間（秒）：
+This will restart loggers that have been programmed before. Program settings from the previous log trip will be used for the new log trip. ,這將會重新啟動先前已完成程式設定的記錄器。新記錄行程將沿用前一次記錄行程的程式設定。
+Restart additional loggers and/or ChartReaders,重新啟動其他記錄器及／或 ChartReader
+Compare trip data based on actual date/time of each reading.,依各讀數的實際日期／時間比對行程資料。
+Compare trip data from different date/time period(s).,比對不同日期／時間區間的行程資料。
+Manually define how the trip data is to be compared with other trip data.,手動定義行程資料與其他行程資料的比對方式。
+Reading Offset:,讀數偏移：
+days,天
+Suggest,建議
+Calculated Value Definition,計算值定義
+&Name:,名稱(&N)：
+&Formula:,公式(&F)：
+&Time units:,時間單位(&T)：
+Only use values that are:,僅使用符合以下條件的數值：
+&Greater than or equal to:,大於或等於(&G)：
+&Less than or equal to:,小於或等於(&L)：
+Display &temperatures in,溫度顯示單位(&T)
+Dialog Te&xture,對話方塊紋理(&X)
+Display the &Status Bar,顯示狀態列(&S)
+Display the &View Manager,顯示檢視管理員(&V)
+Display &Ports and Products,顯示連接埠與產品(&P)
+&Display Tip of the Day when starting,啟動時顯示每日提示(&D)
+Show on Graph,在圖表上顯示
+&Comment,備註(&C)
+&Title,標題(&T)
+&Readings ToolTip,讀數工具提示(&R)
+Horizontal (&X) Grid,水平 (X) 格線(&X)
+Vertical (&Y) Grid,垂直 (Y) 格線(&Y)
+Vertical (Y) &Axis,垂直 (Y) 軸(&A)
+&Border Colours,邊框色彩(&B)
+Vertical (Y) Axis &Limits:,垂直 (Y) 軸界限(&L)：
+&Line,線條(&L)
+Style:,樣式：
+Colour:,色彩：
+Weight:,粗細：
+&Marker,標記(&M)
+Size:,大小：
+&Specifications,規格(&S)
+Above,高於
+Within,範圍內
+Below,低於
+Sensor Range:,感測器範圍：
+Resolution:,解析度：
+Maximum Readings:,最大讀數筆數：
+Specification:,規格：
+Working Range:,工作範圍：
+Bits Per Sample:,每筆取樣位元數：
+&Short Date,短日期(&S)
+&Long Date,長日期(&L)
+&Date separator:,日期分隔符號(&D)：
+&Signature List,簽名清單(&S)
+A&dd...,新增(&D)...
+C&ustomize...,自訂(&U)...
+Agent Characters,助理角色
+Please select an agent character from the list below and click OK.,請從下方清單選取助理角色，然後按一下確定。
+Agent Character Description,助理角色說明
+Chars Dir,角色目錄
+Default,預設
+Location point,位置點
+Top Left,左上
+Mid Left,左中
+Bottom Left,左下
+Top Center,中上
+Mid Center,正中
+Bottom Center,中下
+Top Right,右上
+Mid Right,右中
+Bottom Right,右下
+&Orientation (degrees),方向（度）(&O)
+Text Position (&X),文字位置 (X)(&X)
+Text Position (&Y),文字位置 (Y)(&Y)
+&Restrict Access,限制存取(&R)
+&Allow REDi operator delete data blocks,允許 REDi 操作員刪除資料區塊(&A)
+&Password:,密碼(&P)：
+&Confirmation:,確認(&C)：
+"Confirm ""Enable Beeper in the logger""",確認「啟用記錄器蜂鳴器」
+Deactivate &alarm by using your logger’s start button,使用記錄器的啟動按鈕解除警報(&A)
+&Enable beeper,啟用蜂鳴器(&E)
+&Disable beeper,停用蜂鳴器(&D)
+Static,靜態
+Growing Degree Day Calculation,生長度日計算
+Baseline,基準線
+&Upper cutoff,上限臨界值(&U)
+xB0C,°C
+Communications and Products selection,通訊與產品選擇
+Detected Products,偵測到的產品
+Alarm T&ype:,警報類型(&Y)：
+Catastrop&he Alarm,重大警報(&H)
+Instantly raise alarm on reading &below:,讀數低於下列數值時立即觸發警報(&B)：
+Instantly raise alarm on reading &above:,讀數高於下列數值時立即觸發警報(&A)：
+Inte&grator Alarm,累積警報(&G)
+Total number of &degree-minutes above specs exceeds,高於規格的度-分鐘總數超過(&D)
+Display change rate (seconds):,顯示切換速率（秒）：
+Enable Display,啟用顯示幕
+Changes the options for the active report\nCustomise Report,變更使用中報表的選項\n自訂報表
+Changes the options for the active graph\nCustomise Graph,變更使用中圖表的選項\n自訂圖表
+Customises the toolbar\nToolbar customisation,自訂工具列\n自訂工具列
+Please select the appropriate options that control the general behaviour and functions available for the user when using the ChartReader(s),請選取適當的選項，以控制使用者操作 ChartReader 時的一般行為與可用功能
+"If you would like to program and configure similar devices with the same settings, you may do so now by selecting the appropriate option and clicking Next. Otherwise, please click Restart to program and configure another device, or Finish to end.",如果您想以相同設定對類似裝置進行程式設定與組態設定，現在可選取適當選項並按一下「下一步」。否則，請按一下「重新啟動」以對另一台裝置進行程式設定與組態設定，或按一下「完成」結束。
+"The following options determine how different time periods for each trip of logged readings should be synchronised, thereby determining if a comparative or continuous analysis is to be performed.",以下選項決定各記錄行程中不同時間區間的讀數應如何同步，藉此決定要執行比較分析還是連續分析。
+The following options allow you to determine how each of time periods which include the logged data from the trip should be synchronised with each other.,以下選項可讓您決定行程中各個包含已記錄資料的時間區間應如何彼此同步。
+%s when %lu readings have been taken,%s（已擷取 %lu 筆讀數時）
+Multiple Trip Synchronisation,多重行程同步
+Synchronise,同步
+(GMT%s),(GMT%s)
+"This process will guide you through the steps necessary to synchronise trip data from multiple loggers, which may have been logged over different time periods and/or different logging intervals so that the data can be viewed ",此程序將引導您完成同步多台記錄器行程資料所需的步驟，這些資料可能是在不同時間區間及／或不同記錄間隔下記錄的，以便檢視資料
+"side by side or the data can be viewed overlaid.\n\nBy supporting different time period synchronisation, comparative or continuous analysis can be performed.\n\nFor example, with comparative analysis you may choose to ",並排檢視，或重疊檢視資料。\n\n透過支援不同時間區間的同步，可執行比較分析或連續分析。\n\n例如，使用比較分析時，您可以選擇
+"Please select the product families from the list below that you frequently intend to use. \nThe fewer number of product families that are selected, the less time will be taken to perform the communication operations. \n",請從下方清單選取您常使用的產品系列。\n選取的產品系列越少，執行通訊作業所需的時間就越短。\n
+Use default colours,使用預設色彩
+Default text colour,預設文字色彩
+xB0F,°F
+ESCORT ChartReader - Junior/iLog,ESCORT ChartReader - Junior/iLog
+ESCORT ChartReader - Mini 2000/Intelligent,ESCORT ChartReader - Mini 2000/Intelligent
+The software detected a problem during the initialising of the communications port that has prevented it from continuing successfully.,軟體在初始化通訊連接埠時偵測到問題，導致無法順利繼續。
+The initialisation memory region within the %s has become corrupted or is unsupported by this version of software. It is therefore,%s 內的初始化記憶體區域已損毀，或此版本軟體不支援。因此
+The data within the initialisation memory region within the %s is invalid or unsupported. It is therefore,%s 內初始化記憶體區域中的資料無效或不受支援。因此
+This version of the software does not support %s initialised to version %s.,此版本的軟體不支援 %s（初始化版本 %s）。
+The software is unable to upload new program and configuration settings to the %s while the internal temperature of the %s is above 40xB0C (104xB0F).,當 %s 的內部溫度高於 40°C (104°F) 時，軟體無法將新的程式設定與組態設定上傳至 %s。

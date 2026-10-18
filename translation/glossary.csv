@@ -1,0 +1,59 @@
+﻿English,繁體中文
+logger,記錄器
+reading / readings,讀數
+data,資料
+trip,行程
+download,下載
+program,程式設定
+configure,組態設定
+rearm,重新待命
+alarm,警報
+alarm limits,警報界限
+catastrophe alarm,重大事故警報
+integrator alarm,累積警報
+degree-minutes,度分鐘
+specification,規格
+out of specification,超出規格
+sensor,感測器
+internal (sensor),內部
+external (sensor),外部
+temperature,溫度
+humidity,濕度
+calibration,校正
+marked readings,標記讀數
+statistics,統計
+summary,摘要
+overview,總覽
+view / views,檢視
+line (graph),線條
+step (graph),階梯
+legend,圖例
+graph,圖表
+report,報表
+active (document / report),使用中
+active (state),啟用
+port,連接埠
+ports and products,連接埠與產品
+options,選項
+settings,設定
+password,密碼
+log on,登入
+log off,登出
+file,檔案
+window,視窗
+help,說明
+print,列印
+print preview,預覽列印
+time zone,時區
+elapsed time,經過時間
+logging interval,記錄間隔
+products,產品
+tip of the day,每日提示
+license,授權
+version,版本
+mean kinetic temperature (MKT),平均動力溫度 (MKT)
+growing degree day (GDD),生長度日
+shelf life,保存期限
+stress test,壓力測試
+wizard,精靈
+dialog,對話方塊
