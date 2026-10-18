@@ -4,7 +4,7 @@
 
 ## English
 
-[Escort Console](https://www.escortdls.com/) is the Windows software for ESCORT iMiniPlus PDF Data Logger temperature recorders. The vendor ships English, French, German, Italian, Spanish and Polish interfaces only. This project is the **Traditional Chinese (Taiwan) translation** prepared by [Dayuan Refrigeration](https://www.start.com.tw/) for its vaccine-refrigerator customers, released for anyone who needs it.
+Escort Console is the Windows software for ESCORT iMiniPlus PDF Data Logger temperature recorders. The vendor ships English, French, German, Italian, Spanish and Polish interfaces only. This project is the **Traditional Chinese (Taiwan) translation** prepared by [Dayuan Refrigeration](https://www.start.com.tw/) for its vaccine-refrigerator customers, released for anyone who needs it.
 
 This repository contains the translation and a description of the method only. **It contains no vendor binaries and no modified DLLs.**
 To use the Traditional Chinese edition directly, download the one-click installer from our website.
@@ -69,7 +69,7 @@ Produced by Dayuan Refrigeration Engineering Co., Ltd., Taipei, Taiwan. Question
 
 ## 繁體中文
 
-[Escort Console](https://www.escortdls.com/) 是 ESCORT iMiniPlus PDF Data Logger 溫度記錄器的 Windows 管理軟體，原廠只提供英、法、德、義、西、波蘭文介面。本專案是[大元冷凍](https://www.start.com.tw/)為疫苗冰箱客戶整理的**繁體中文翻譯**，開放給有需要的人取用。
+Escort Console 是 ESCORT iMiniPlus PDF Data Logger 溫度記錄器的 Windows 管理軟體，原廠只提供英、法、德、義、西、波蘭文介面。本專案是[大元冷凍](https://www.start.com.tw/)為疫苗冰箱客戶整理的**繁體中文翻譯**，開放給有需要的人取用。
 
 這裡只放翻譯內容與做法說明，**不含任何原廠程式或修改後的 DLL**。
 要直接使用繁體中文版，請到官網下載一鍵安裝程式。
