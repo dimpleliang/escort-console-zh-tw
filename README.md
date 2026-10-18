@@ -23,7 +23,6 @@ To use the Traditional Chinese edition directly, download the one-click installe
 | `translation/zh-TW.csv` | All 2,036 UI strings, columns `English` and `繁體中文`. The English column is the original resource text, including accelerator marks (`&`) and format specifiers (`%s`, `%lu`), which are preserved in the translation. Line breaks inside a string are written as the two characters `\n`. |
 | `translation/glossary.csv` | Terminology used to keep the translation consistent. |
 | `extras/escort0809.tod` | Traditional Chinese "Tip of the Day" file (Big5 plain text, one tip per line). |
-| `extras/set-display-language-zh.reg` | Registry file that sets the display language to 0x0809, so no manual language switch is needed after installing the Chinese DLL. |
 
 CSV files are UTF-8 with BOM and open correctly in Excel.
 
@@ -41,7 +40,7 @@ All interface text lives in a language resource DLL named `Escort<LANGID>.dll`; 
 1. Open the vendor's `Escort0809.dll` (the English UK slot) in [Resource Hacker](http://www.angusj.com/resourcehacker/) and export the MENU, DIALOG and STRINGTABLE resources as `.rc` files.
 2. Replace the English strings with the Chinese ones from `zh-TW.csv`; change every dialog `FONT` to `9, "PMingLiU"`.
 3. Compile the `.rc` files with Resource Hacker and write them back with `addoverwrite`, in the order STRINGTABLE, MENU, DIALOG.
-4. Import `set-display-language-zh.reg`, or choose English (UK) under Edit → Options → Languages inside the program.
+4. In the program choose English (UK) under Edit → Options → Languages and restart. (The same can be done by setting the DWORD `DisplayLanguage` to `0x809` under `HKEY_CURRENT_USER\Software\Escort DLS\ESCORT Console\Settings`.)
 
 The language list in the program is read from the DLL string table (IDs from 10010), so changing that entry to 「中文(台灣)」 makes the drop-down show Chinese.
 
@@ -89,7 +88,6 @@ Produced by Dayuan Refrigeration Engineering Co., Ltd., Taipei, Taiwan. Question
 | `translation/zh-TW.csv` | 全部介面字串的翻譯，2,036 條，欄位為 `English`、`繁體中文`。英文是原廠資源裡的原文，含快速鍵標記 `&` 與格式符號 `%s`、`%lu`，翻譯時保留。字串內的換行以 `\n` 兩個字元表示。 |
 | `translation/glossary.csv` | 術語表，翻譯時統一用語的依據。 |
 | `extras/escort0809.tod` | 「每日提示」的繁體中文版（Big5 編碼純文字，一行一則）。 |
-| `extras/set-display-language-zh.reg` | 把顯示語言設為 0x0809 的登錄檔，裝好中文 DLL 後匯入即可免手動切換。 |
 
 CSV 為 UTF-8（含 BOM），Excel 直接開啟不會亂碼。
 
@@ -107,7 +105,7 @@ Escort Console 的介面文字全部放在語言資源 DLL `Escort<語言代碼>
 1. 用 [Resource Hacker](http://www.angusj.com/resourcehacker/) 開啟原廠的 `Escort0809.dll`（English UK 槽位），匯出 MENU、DIALOG、STRINGTABLE 三種資源的 `.rc`。
 2. 依 `zh-TW.csv` 把英文字串換成中文；對話框的 `FONT` 改為 `9, "PMingLiU"`。
 3. 用 Resource Hacker 編譯 `.rc` 並以 `addoverwrite` 寫回 DLL，順序 STRINGTABLE → MENU → DIALOG。
-4. 匯入 `set-display-language-zh.reg`，或在程式內 Edit → Options → Languages 選擇 English (UK)。
+4. 在程式內 Edit → Options → Languages 選擇 English (UK) 後重開。（等效做法：把登錄檔 `HKEY_CURRENT_USER\Software\Escort DLS\ESCORT Console\Settings` 下的 DWORD `DisplayLanguage` 設為 `0x809`。）
 
 程式語言清單是從 DLL 的字串表（ID 10010 起）讀取的，把該條改成「中文(台灣)」，下拉選單就會顯示中文。
 
